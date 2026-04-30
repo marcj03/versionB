@@ -1,0 +1,3 @@
+if(!sessionStorage.getItem("startTime")){sessionStorage.setItem("startTime",Date.now())}
+if(!sessionStorage.getItem("clicks")){sessionStorage.setItem("clicks",0)}
+setInterval(()=>{const timerEl=document.getElementById("timer");if(!timerEl)return;const start=Number(sessionStorage.getItem("startTime"));const now=Date.now();const seconds=Math.floor((now-start)/1000);timerEl.textContent=seconds},1000);document.addEventListener("click",()=>{let clicks=Number(sessionStorage.getItem("clicks")||0);sessionStorage.setItem("clicks",clicks+1)})

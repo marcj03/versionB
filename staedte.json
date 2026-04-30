@@ -1,0 +1,6241 @@
+[
+  {
+    "name": "Mallorca",
+    "image": "images/mallorca.webp",
+    "beschreibung_kurz": "Sonne, Strand und türkisblaues Meer.",
+    "beschreibung_lang": "Mallorca bietet Strände, Berge und lebendige Städte. Palma mit seiner Kathedrale, kleine Buchten und die Serra de Tramuntana machen die Insel sehr vielseitig.",
+    "preis": "2000 Euro pro Person",
+    "dauer_tage": 7,
+    "land": "Spanien",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "2h 15min",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": true
+    },
+    "zeitraum": {
+      "von": "2026-06-01",
+      "bis": "2026-06-08"
+    },
+    "hotel": {
+      "hotel_name": "Hotel Sun Beach",
+      "sterne": 4,
+      "verpflegung": "All Inclusive",
+      "lage": "direkt am Strand",
+      "barrierefreundlich": true
+    },
+    "klima": "heiß",
+    "beste_reisezeit": "Mai – September",
+    "highlights": ["Strände", "Palma Altstadt", "Berge", "Bootstouren"],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+      
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Madrid",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Paare", "Familien", "Strandurlaub"]
+  },
+
+  {
+    "name": "Lissabon",
+    "image": "images/lissabon.webp",
+    "beschreibung_kurz": "Historische Stadt mit Sonne und Kultur.",
+    "beschreibung_lang": "Lissabon begeistert mit alten Straßenbahnen, Aussichtspunkten und der Altstadt Alfama. Dazu kommen Kultur, Essen und das Meer in der Nähe.",
+    "preis": "1800 Euro pro Person",
+    "dauer_tage": 5,
+    "land": "Portugal",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "3h 10min",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": true
+    },
+    "zeitraum": {
+      "von": "2026-07-10",
+      "bis": "2026-07-15"
+    },
+    "hotel": {
+      "hotel_name": "Hotel Lisboa Center",
+      "sterne": 3,
+      "verpflegung": "Frühstück",
+      "lage": "Stadtzentrum",
+      "barrierefreundlich": true
+    },
+    "klima": "mild",
+    "beste_reisezeit": "März – Oktober",
+    "highlights": ["Straßenbahnen", "Torre de Belém", "Alfama", "Aussichtspunkte"],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+  
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Lisbon",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 8,
+    "geeignet_fuer": ["Paare", "Städtereise", "Kultur"]
+  },
+
+  {
+    "name": "Venedig",
+    "image": "images/venedig.webp",
+    "beschreibung_kurz": "Romantische Kanäle und Gondeln.",
+    "beschreibung_lang": "Venedig ist eine einzigartige Stadt auf dem Wasser mit Kanälen, Brücken und historischen Gebäuden wie dem Markusplatz und dem Dogenpalast.",
+    "preis": "2200 Euro pro Person",
+    "dauer_tage": 6,
+    "land": "Italien",
+    "transport": {
+      "typ": "Zug",
+      "zugzeit": "10h 30min",
+      "barrierefreundlich": false,
+      "rollstuhl_möglich": false
+    },
+    "zeitraum": {
+      "von": "2026-08-05",
+      "bis": "2026-08-11"
+    },
+    "hotel": {
+      "hotel_name": "Hotel Canal View",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "direkt am Kanal",
+      "barrierefreundlich": true
+    },
+    "klima": "warm",
+    "beste_reisezeit": "April – Juni",
+    "highlights": ["Gondelfahrt", "Markusplatz", "Dogenpalast", "Kanäle"],
+    "barrierefreiheit": {
+      "rollstuhlzugang": false
+    },
+  
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Rome",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 10,
+    "nachtleben_level": 5,
+    "geeignet_fuer": ["Paare", "Romantik", "Kurztrip"]
+  },
+
+  {
+    "name": "Santorin",
+    "image": "images/santorin.webp",
+    "beschreibung_kurz": "Weiße Häuser und blaue Kuppeln.",
+    "beschreibung_lang": "Santorin ist bekannt für seine weißen Häuser, blauen Dächer und spektakuläre Sonnenuntergänge über dem Meer.",
+    "preis": "2500 Euro pro Person",
+    "dauer_tage": 7,
+    "land": "Griechenland",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "3h 40min",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": true
+    },
+    "zeitraum": {
+      "von": "2026-09-15",
+      "bis": "2026-09-22"
+    },
+    "hotel": {
+      "hotel_name": "Caldera View Hotel",
+      "sterne": 5,
+      "verpflegung": "Halbpension",
+      "lage": "Klippe mit Meerblick",
+      "barrierefreundlich": false
+    },
+    "klima": "heiß",
+    "beste_reisezeit": "Mai – Oktober",
+    "highlights": ["Sonnenuntergänge", "Caldera", "Strände", "Weiße Dörfer"],
+    "barrierefreiheit": {
+      "rollstuhlzugang": false
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Athens",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 10,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Paare", "Luxus", "Romantik"]
+  },
+
+  {
+    "name": "Paris",
+    "image": "images/paris.webp",
+    "beschreibung_kurz": "Stadt der Liebe und des Eiffelturms.",
+    "beschreibung_lang": "Paris bietet weltberühmte Sehenswürdigkeiten wie den Eiffelturm, Louvre und die Champs-Élysées. Dazu kommen Cafés, Museen und romantische Straßen.",
+    "preis": "2100 Euro pro Person",
+    "dauer_tage": 5,
+    "land": "Frankreich",
+    "transport": {
+      "typ": "Zug",
+      "zugzeit": "8h",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": true
+    },
+    "zeitraum": {
+      "von": "2026-05-10",
+      "bis": "2026-05-15"
+    },
+    "hotel": {
+      "hotel_name": "Hotel Eiffel Stay",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Stadtzentrum",
+      "barrierefreundlich": true
+    },
+    "klima": "mild",
+    "beste_reisezeit": "April – Oktober",
+    "highlights": ["Eiffelturm", "Louvre", "Seine", "Cafés"],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Paris",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 10,
+    "nachtleben_level": 9,
+    "geeignet_fuer": ["Paare", "Kultur", "Städtereise"]
+  },
+
+  {
+    "name": "Rom",
+    "image": "images/rom.webp",
+    "beschreibung_kurz": "Antike Stadt mit Geschichte und Pizza.",
+    "beschreibung_lang": "Rom verbindet antike Bauwerke wie das Kolosseum mit moderner italienischer Lebensart. Überall gibt es Geschichte, Plätze und gutes Essen.",
+    "preis": "1900 Euro pro Person",
+    "dauer_tage": 6,
+    "land": "Italien",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "2h",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": true
+    },
+    "zeitraum": {
+      "von": "2026-06-20",
+      "bis": "2026-06-26"
+    },
+    "hotel": {
+      "hotel_name": "Hotel Roma Centro",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Innenstadt",
+      "barrierefreundlich": true
+    },
+    "klima": "warm",
+    "beste_reisezeit": "April – Juni",
+    "highlights": ["Kolosseum", "Vatikan", "Trevi-Brunnen", "Plätze"],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Rome",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 8,
+    "geeignet_fuer": ["Kultur", "Städtereise", "Paare"]
+  },
+  {
+  "name": "Madrid",
+  "image": "images/madrid.webp",
+  "beschreibung_kurz": "Lebendige Hauptstadt Spaniens mit Kunst und Geschichte.",
+  "beschreibung_lang": "Madrid bietet große Museen, königliche Paläste und ein aktives Nachtleben. Die Stadt ist kulturelles und politisches Zentrum Spaniens.",
+  "preis": "1300 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Spanien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2.5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-15",
+    "bis": "2026-05-20"
+  },
+  "hotel": {
+    "hotel_name": "Madrid Central Palace Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "April – Juni, September – Oktober",
+  "highlights": ["Prado Museum", "Königspalast", "Retiro Park", "Plaza Mayor"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Madrid",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 10,
+    "geeignet_fuer": ["Kultur", "Party", "Städtereise"]
+},
+{
+  "name": "Berlin",
+  "image": "images/berlin.webp",
+  "beschreibung_kurz": "Dynamische Hauptstadt mit Geschichte und Kultur.",
+  "beschreibung_lang": "Berlin bietet eine Mischung aus Geschichte, moderner Architektur und kultureller Vielfalt. Sehenswürdigkeiten wie das Brandenburger Tor prägen die Stadt.",
+  "preis": "900 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Deutschland",
+  "transport": {
+    "typ": "Bahn",
+    "fahrzeit": "4-6h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-04-15",
+    "bis": "2026-04-20"
+  },
+  "hotel": {
+    "hotel_name": "City Hotel Berlin",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Brandenburger Tor", "Reichstag", "East Side Gallery", "Museumsinsel"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Berlin",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 6,
+    "nachtleben_level": 10,
+    "geeignet_fuer": ["Party", "Kultur", "Städtereise"]
+},
+{
+  "name": "Köln",
+  "image": "images/koeln.webp",
+  "beschreibung_kurz": "Domstadt am Rhein mit lebendiger Altstadt.",
+  "beschreibung_lang": "Köln ist berühmt für den Kölner Dom, den Rhein und seine offene, fröhliche Atmosphäre. Die Stadt bietet Kultur und Nachtleben.",
+  "preis": "750 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Deutschland",
+  "transport": {
+    "typ": "Bahn",
+    "fahrzeit": "3-5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-05",
+    "bis": "2026-05-09"
+  },
+  "hotel": {
+    "hotel_name": "Rheinblick Hotel Köln",
+    "sterne": 3,
+    "verpflegung": "Frühstück",
+    "lage": "Altstadt",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "Mai – Oktober",
+  "highlights": ["Kölner Dom", "Rheinpromenade", "Altstadt", "Schokoladenmuseum"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Berlin",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 9,
+    "geeignet_fuer": ["Party", "Kultur", "Kurztrip"]
+},
+{
+  "name": "München",
+  "image": "images/muenchen.webp",
+  "beschreibung_kurz": "Bayerische Stadt mit Tradition und Alpenblick.",
+  "beschreibung_lang": "München verbindet bayerische Kultur mit moderner Stadtentwicklung. Bekannt für Biergärten, das Oktoberfest und die Nähe zu den Alpen.",
+  "preis": "1100 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Deutschland",
+  "transport": {
+    "typ": "Bahn",
+    "fahrzeit": "4-7h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-01",
+    "bis": "2026-06-06"
+  },
+  "hotel": {
+    "hotel_name": "Hotel Bavaria München",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt-warm",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Marienplatz", "Englischer Garten", "Schloss Nymphenburg", "Biergärten"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Berlin",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 8,
+    "geeignet_fuer": ["Kultur", "Natur", "Städtereise"]
+},
+{
+  "name": "Sevilla",
+  "image": "images/sevilla.webp",
+  "beschreibung_kurz": "Andalusische Stadt voller Sonne, Flamenco und Geschichte.",
+  "beschreibung_lang": "Sevilla begeistert mit maurischer Architektur, engen Gassen und lebendiger Kultur. Die Stadt ist ein Zentrum des Flamencos und der spanischen Geschichte.",
+  "preis": "1300 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Spanien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "3h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-04-10",
+    "bis": "2026-04-15"
+  },
+  "hotel": {
+    "hotel_name": "Hotel Sevilla Centro",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Altstadt",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "März – Mai",
+  "highlights": ["Alcázar", "Kathedrale von Sevilla", "Plaza de España", "Altstadt"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Madrid",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Kultur", "Städtereise", "Sonne"]
+},
+{
+  "name": "Los Angeles",
+  "image": "images/los_angeles.webp",
+  "beschreibung_kurz": "Stadt der Stars, Strände und Sonne in Kalifornien.",
+  "beschreibung_lang": "Los Angeles ist das Zentrum der Filmindustrie mit Hollywood, bietet aber auch Strände wie Santa Monica und eine vielfältige Kultur- und Food-Szene.",
+  "preis": "1800 Euro pro Person",
+  "dauer_tage": 7,
+  "land": "USA",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "11-12h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-07-01",
+    "bis": "2026-07-08"
+  },
+  "hotel": {
+    "hotel_name": "LA Sunset Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum / Hollywood",
+    "barrierefreundlich": true
+  },
+  "klima": "warm-trocken",
+  "beste_reisezeit": "März – Oktober",
+  "highlights": ["Hollywood Sign", "Walk of Fame", "Santa Monica Pier", "Beverly Hills"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+    "kontinent": "Nordamerika",
+    "zeitzone": "America/Los_Angeles",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 9,
+    "geeignet_fuer": ["Strand", "City", "Hollywood"]
+},
+{
+  "name": "New York",
+  "image": "images/new_york.webp",
+  "beschreibung_kurz": "Die Stadt, die niemals schläft.",
+  "beschreibung_lang": "New York ist eine der bekanntesten Metropolen der Welt mit Sehenswürdigkeiten wie der Freiheitsstatue, Manhattan und Central Park.",
+  "preis": "1700 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "USA",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "8-9h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-20",
+    "bis": "2026-05-26"
+  },
+  "hotel": {
+    "hotel_name": "Manhattan Central Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Manhattan",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "April – Juni, September – November",
+  "highlights": ["Times Square", "Central Park", "Freiheitsstatue", "Brooklyn Bridge"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+    "kontinent": "Nordamerika",
+    "zeitzone": "America/New_York",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 10,
+    "geeignet_fuer": ["Städtereise", "Shopping", "Nightlife"]
+},
+
+{
+  "name": "Chicago",
+  "image": "images/chicago.webp",
+  "beschreibung_kurz": "Architekturstadt am Lake Michigan.",
+  "beschreibung_lang": "Chicago ist bekannt für seine beeindruckende Skyline, Jazzmusik und die Lage direkt am Lake Michigan mit Stränden und Parks.",
+  "preis": "1500 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "USA",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "9-10h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-10",
+    "bis": "2026-06-15"
+  },
+  "hotel": {
+    "hotel_name": "Chicago Lakeside Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Downtown",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Millennium Park", "Willis Tower", "Navy Pier", "Lake Michigan"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+   
+    "kontinent": "Nordamerika",
+    "zeitzone": "America/Chicago",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 6,
+    "nachtleben_level": 8,
+    "geeignet_fuer": ["Architektur", "City", "See"]
+},
+{
+  "name": "Athen",
+  "image": "images/athen.webp",
+  "beschreibung_kurz": "Wiege der Demokratie mit antiken Tempeln.",
+  "beschreibung_lang": "Athen verbindet moderne Stadt mit antiker Geschichte. Die Akropolis und zahlreiche Ruinen machen die Stadt zu einem kulturellen Highlight.",
+  "preis": "1000 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Griechenland",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2.5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-01",
+    "bis": "2026-05-06"
+  },
+  "hotel": {
+    "hotel_name": "Athen Panorama Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "März – Juni, September – Oktober",
+  "highlights": ["Akropolis", "Parthenon", "Plaka", "Antikes Agora"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+   
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Athens",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Kultur", "Geschichte", "Städtereise"]
+},
+{
+  "name": "Barcelona",
+  "image": "images/barcelona.webp",
+  "beschreibung_kurz": "Mediterrane Stadt mit Strand, Gaudí und Kultur.",
+  "beschreibung_lang": "Barcelona verbindet Strandurlaub mit einzigartiger Architektur von Antoni Gaudí, lebendigen Straßen und katalanischer Kultur.",
+  "preis": "1400 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Spanien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2.5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-05",
+    "bis": "2026-06-10"
+  },
+  "hotel": {
+    "hotel_name": "Barcelona City Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Sagrada Família", "Park Güell", "Las Ramblas", "Strand Barceloneta"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Madrid",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 9,
+    "geeignet_fuer": ["Strand", "Kultur", "Party"]
+},
+{
+  "name": "Porto",
+  "image": "images/porto.webp",
+  "beschreibung_kurz": "Bunte Stadt am Douro mit Hafen und Brücken.",
+  "beschreibung_lang": "Porto ist bekannt für seine Altstadt, den Fluss Douro und den berühmten Portwein. Die Stadt verbindet historische Architektur mit modernem Leben am Wasser.",
+  "preis": "1200 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Portugal",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "3h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-10",
+    "bis": "2026-05-15"
+  },
+  "hotel": {
+    "hotel_name": "Hotel Ribeira View",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Altstadt",
+    "barrierefreundlich": true
+  },
+  "klima": "mild",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Douro", "Dom Luís Brücke", "Altstadt Ribeira", "Weinkeller"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Lisbon",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Kultur", "Städtereise", "Wein"]
+},
+{
+  "name": "Madeira",
+  "image": "images/madeira.webp",
+  "beschreibung_kurz": "Atlantikinsel mit Natur, Bergen und mildem Klima.",
+  "beschreibung_lang": "Madeira ist eine portugiesische Insel mit beeindruckenden Landschaften, Wanderwegen und ganzjährig mildem Klima. Ideal für Natur- und Erholungsurlaub.",
+  "preis": "1500 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "Portugal",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "4h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-04-20",
+    "bis": "2026-04-26"
+  },
+  "hotel": {
+    "hotel_name": "Madeira Ocean Resort",
+    "sterne": 4,
+    "verpflegung": "Halbpension",
+    "lage": "Küste",
+    "barrierefreundlich": true
+  },
+  "klima": "mild",
+  "beste_reisezeit": "Ganzjährig",
+  "highlights": ["Levadas", "Funchal", "Pico do Arieiro", "Klippenküste"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+   
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Lisbon",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 4,
+    "geeignet_fuer": ["Natur", "Wandern", "Erholung"]
+},
+{
+  "name": "Chieming",
+  "image": "images/chieming.webp",
+  "beschreibung_kurz": "Ruhiger Ort am Chiemsee mit Alpenblick.",
+  "beschreibung_lang": "Chieming liegt direkt am Chiemsee in Bayern und bietet Natur, Berge und Erholung. Ideal für Spaziergänge, Radfahren und entspannte Tage am Wasser.",
+  "preis": "600 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Deutschland",
+  "transport": {
+    "typ": "Bahn",
+    "fahrzeit": "2-4h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-01",
+    "bis": "2026-06-05"
+  },
+  "hotel": {
+    "hotel_name": "Seehotel Chieming",
+    "sterne": 3,
+    "verpflegung": "Frühstück",
+    "lage": "Seeufer",
+    "barrierefreundlich": true
+  },
+  "klima": "mild",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Chiemsee", "Alpenblick", "Radwege", "Badestrände"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Berlin",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 2,
+    "geeignet_fuer": ["Natur", "Ruhe", "See"]
+},
+{
+  "name": "Bern",
+  "image": "images/bern.webp",
+  "beschreibung_kurz": "Charmante Hauptstadt der Schweiz mit Altstadt und Fluss.",
+  "beschreibung_lang": "Bern beeindruckt mit seiner UNESCO-Altstadt, der Aare und einer Mischung aus Geschichte, Politik und Natur mitten in der Stadt.",
+  "preis": "1100 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Schweiz",
+  "transport": {
+    "typ": "Bahn",
+    "fahrzeit": "4-6h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-10",
+    "bis": "2026-05-14"
+  },
+  "hotel": {
+    "hotel_name": "Hotel Bern Zentrum",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Altstadt",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Altstadt Bern", "Zytglogge", "Bundeshaus", "Aare"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Zurich",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 5,
+    "geeignet_fuer": ["Kultur", "Städtereise", "Natur"]
+},
+{
+  "name": "Madeira",
+  "image": "images/madeira.webp",
+  "beschreibung_kurz": "Atlantikinsel mit Natur, Bergen und mildem Klima.",
+  "beschreibung_lang": "Madeira ist eine portugiesische Insel mit beeindruckenden Landschaften, Wanderwegen und ganzjährig mildem Klima. Ideal für Natur- und Erholungsurlaub.",
+  "preis": "1700 Euro pro Person",
+  "dauer_tage": 7,
+  "land": "Portugal",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "4,5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-10",
+    "bis": "2026-05-17"
+  },
+  "hotel": {
+    "hotel_name": "Cliffside Madeira View Hotel",
+    "sterne": 5,
+    "verpflegung": "All Inclusive",
+    "lage": "Klippenlage",
+    "barrierefreundlich": true
+  },
+  "klima": "mild",
+  "beste_reisezeit": "Ganzjährig",
+  "highlights": ["Levadas", "Funchal Altstadt", "Pico do Arieiro", "Naturpools Porto Moniz"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Lisbon",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 10,
+  "nachtleben_level": 3,
+  "geeignet_fuer": ["Natur", "Wandern", "Erholung"]
+},
+{
+  "name": "Florenz",
+  "image": "images/florenz.webp",
+  "beschreibung_kurz": "Renaissance-Stadt voller Kunst und Geschichte.",
+  "beschreibung_lang": "Florenz ist das Herz der Renaissance mit berühmten Kunstwerken, Museen und beeindruckender Architektur wie dem Dom Santa Maria del Fiore.",
+  "preis": "1200 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Italien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "1.5-2h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-04-25",
+    "bis": "2026-04-30"
+  },
+  "hotel": {
+    "hotel_name": "Hotel Firenze Centro",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Innenstadt",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "April – Juni, September – Oktober",
+  "highlights": ["Dom von Florenz", "Uffizien", "Ponte Vecchio", "Piazzale Michelangelo"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+   
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Rome",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Kultur", "Kunst", "Städtereise"]
+},
+{
+  "name": "Tokio",
+  "image": "images/tokio.webp",
+  "beschreibung_kurz": "Hightech-Metropole mit Tradition und einzigartiger Küche.",
+  "beschreibung_lang": "Tokio verbindet futuristische Hochhäuser, moderne Technik und traditionelle Tempel. Die Stadt ist bekannt für ihre Food-Szene und lebendige Stadtviertel.",
+  "preis": "2000 Euro pro Person",
+  "dauer_tage": 7,
+  "land": "Japan",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "11-12h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-04-10",
+    "bis": "2026-04-17"
+  },
+  "hotel": {
+    "hotel_name": "Tokyo Central Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Shinjuku",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "März – Mai, September – November",
+  "highlights": ["Shibuya Crossing", "Senso-ji Tempel", "Tokyo Tower", "Akihabara"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+   
+    "kontinent": "Asien",
+    "zeitzone": "Asia/Tokyo",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 9,
+    "geeignet_fuer": ["Technologie", "Kultur", "Food"]
+},{
+  "name": "Fidschi",
+  "image": "images/fidschi.webp",
+  "beschreibung_kurz": "Südseeparadies mit türkisfarbenem Wasser, Palmen und traumhaften Inseln.",
+  "beschreibung_lang": "Fidschi ist ein Inselstaat im Südpazifik, bekannt für seine weißen Sandstrände, kristallklares Wasser und entspannte Inselkultur. Ideal für Badeurlaub, Schnorcheln und pure Erholung.",
+  "preis": "3800 Euro pro Person",
+  "dauer_tage": 12,
+  "land": "Fidschi",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "24-28h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-08-10",
+    "bis": "2026-08-22"
+  },
+  "hotel": {
+    "hotel_name": "Coral Lagoon Island Resort",
+    "sterne": 5,
+    "verpflegung": "All Inclusive",
+    "lage": "Strand (Inselresort)",
+    "barrierefreundlich": true
+  },
+  "klima": "tropisch",
+  "beste_reisezeit": "Mai – Oktober",
+  "highlights": ["Mamanuca Islands", "Korallenriffe", "Snorkeling Spots", "Sonnenuntergänge am Strand"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+  "kontinent": "Ozeanien",
+  "zeitzone": "Pacific/Fiji",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 10,
+  "nachtleben_level": 3,
+  "geeignet_fuer": ["Strand", "Erholung", "Tauchen", "Natur"]
+},{
+  "name": "San Andrés",
+  "image": "images/san_andres.webp",
+  "beschreibung_kurz": "Karibikinsel mit türkisem Wasser, Korallenriffen und entspanntem Inselgefühl.",
+  "beschreibung_lang": "San Andrés ist eine kolumbianische Karibikinsel, bekannt für ihr 'Sea of Seven Colors', ruhige Strände und ausgezeichnete Schnorchel- und Tauchspots. Die Insel ist deutlich weniger touristisch als viele klassische Karibikziele.",
+  "preis": "2100 Euro pro Person",
+  "dauer_tage": 7,
+  "land": "Kolumbien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "14-16h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-20",
+    "bis": "2026-06-27"
+  },
+  "hotel": {
+    "hotel_name": "Caribbean Reef Eco Resort",
+    "sterne": 4,
+    "verpflegung": "All Inclusive",
+    "lage": "Strand",
+    "barrierefreundlich": true
+  },
+  "klima": "tropisch",
+  "beste_reisezeit": "Dezember – April",
+  "highlights": ["Johnny Cay", "Hoyo Soplador", "West View", "Schnorchelriffe"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+  "kontinent": "Nordamerika",
+  "zeitzone": "America/Bogota",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": false,
+  "romantik_score": 9,
+  "nachtleben_level": 4,
+  "geeignet_fuer": ["Strand", "Tauchen", "Erholung", "Natur"]
+},{
+  "name": "Auckland",
+  "image": "images/auckland.webp",
+  "beschreibung_kurz": "Lebendige Hafenstadt zwischen Vulkankegeln, Meer und moderner Skyline.",
+  "beschreibung_lang": "Auckland ist die größte Stadt Neuseelands und liegt eingebettet zwischen zwei großen Häfen. Die Stadt bietet eine Mischung aus Natur, Inseln, urbanem Leben und Outdoor-Abenteuern.",
+  "preis": "2900 Euro pro Person",
+  "dauer_tage": 9,
+  "land": "Neuseeland",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "24-26h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-09-05",
+    "bis": "2026-09-14"
+  },
+  "hotel": {
+    "hotel_name": "Harbour View City Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Hafen / Innenstadt",
+    "barrierefreundlich": true
+  },
+  "klima": "subtropisch-ozeanisch",
+  "beste_reisezeit": "November – April",
+  "highlights": ["Sky Tower", "Waiheke Island", "Mount Eden", "Waitemata Harbour"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+  "kontinent": "Ozeanien",
+  "zeitzone": "Pacific/Auckland",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 8,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Natur", "Stadt", "Abenteuer", "Inseln"]
+},{
+  "name": "Las Palmas",
+  "image": "images/las_palmas.webp",
+  "beschreibung_kurz": "Lebendige Küstenstadt mit Stränden, Altstadt und ganzjährig mildem Klima.",
+  "beschreibung_lang": "Las Palmas vereint Stadtleben und Strandurlaub. Die Hauptstadt von Gran Canaria bietet historische Viertel, moderne Promenaden und ein sehr angenehmes Klima das ganze Jahr über.",
+  "preis": "1200 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "Spanien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "4,5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-03-15",
+    "bis": "2026-03-21"
+  },
+  "hotel": {
+    "hotel_name": "Atlantic City Beach Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Strand (Playa de las Canteras)",
+    "barrierefreundlich": true
+  },
+  "klima": "subtropisch",
+  "beste_reisezeit": "Ganzjährig",
+  "highlights": ["Playa de las Canteras", "Altstadt Vegueta", "Dünen von Maspalomas", "Promenade"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Atlantic/Canary",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 8,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Strand", "Stadt", "Erholung", "Nachtleben"]
+},
+{
+  "name": "Tokio",
+  "image": "images/tokio.webp",
+  "beschreibung_kurz": "Hightech-Metropole mit Tradition und einzigartiger Küche.",
+  "beschreibung_lang": "Tokio verbindet futuristische Hochhäuser, moderne Technik und traditionelle Tempel. Die Stadt ist bekannt für ihre Food-Szene und lebendige Stadtviertel.",
+  "preis": "2300 Euro pro Person",
+  "dauer_tage": 8,
+  "land": "Japan",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "11-12h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-10-05",
+    "bis": "2026-10-13"
+  },
+  "hotel": {
+    "hotel_name": "Tokyo Skyline Luxury Suites",
+    "sterne": 5,
+    "verpflegung": "Halbpension",
+    "lage": "Shibuya",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "März – Mai, September – November",
+  "highlights": ["Shibuya Crossing", "Senso-ji Tempel", "Tokyo Tower", "Akihabara", "Ueno Park"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+  "kontinent": "Asien",
+  "zeitzone": "Asia/Tokyo",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 8,
+  "nachtleben_level": 10,
+  "geeignet_fuer": ["Technologie", "Kultur", "Food"]
+},{
+  "name": "Hawaii",
+  "image": "images/hawaii.webp",
+  "beschreibung_kurz": "Tropisches Inselparadies mit Stränden, Vulkanen und Natur pur.",
+  "beschreibung_lang": "Hawaii bietet eine einzigartige Mischung aus tropischen Stränden, aktiven Vulkanlandschaften und üppiger Natur. Perfekt für Erholung, Abenteuer und Outdoor-Aktivitäten.",
+  "preis": "3200 Euro pro Person",
+  "dauer_tage": 10,
+  "land": "USA",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "18-22h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-01",
+    "bis": "2026-06-11"
+  },
+  "hotel": {
+    "hotel_name": "Waikiki Paradise Resort",
+    "sterne": 4,
+    "verpflegung": "Halbpension",
+    "lage": "Strand (Honolulu)",
+    "barrierefreundlich": true
+  },
+  "klima": "tropisch",
+  "beste_reisezeit": "Ganzjährig",
+  "highlights": ["Waikiki Beach", "Diamond Head", "Na Pali Coast", "Vulkane Nationalpark"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+  "kontinent": "Nordamerika",
+  "zeitzone": "Pacific/Honolulu",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 10,
+  "nachtleben_level": 6,
+  "geeignet_fuer": ["Strand", "Natur", "Abenteuer", "Erholung"]
+},{
+  "name": "Juneau",
+  "image": "images/juneau.webp",
+  "beschreibung_kurz": "Abgelegene Hauptstadt Alaskas mit Gletschern, Bergen und Wildnis.",
+  "beschreibung_lang": "Juneau liegt eingebettet zwischen Bergen und Meer und ist bekannt für seine spektakulären Gletscher, Walbeobachtung und unberührte Natur. Ideal für Natur- und Abenteuerreisen.",
+  "preis": "2600 Euro pro Person",
+  "dauer_tage": 7,
+  "land": "USA",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "14-16h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-07-05",
+    "bis": "2026-07-12"
+  },
+  "hotel": {
+    "hotel_name": "Glacier Bay View Lodge",
+    "sterne": 3,
+    "verpflegung": "Frühstück",
+    "lage": "Natur / Küste",
+    "barrierefreundlich": true
+  },
+  "klima": "kühl-gemäßigt",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Mendenhall Glacier", "Walbeobachtung", "Mount Roberts Tramway", "Glacier Bay"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+  "kontinent": "Nordamerika",
+  "zeitzone": "America/Juneau",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 7,
+  "nachtleben_level": 2,
+  "geeignet_fuer": ["Natur", "Abenteuer", "Wildlife"]
+},{
+  "name": "Genf",
+  "image": "images/genf.webp",
+  "beschreibung_kurz": "Elegante Stadt am See mit internationalem Flair und Alpenpanorama.",
+  "beschreibung_lang": "Genf verbindet kosmopolitisches Leben mit entspannter Seelandschaft. Zwischen luxuriösen Boutiquen, historischen Gassen und internationalen Institutionen bietet die Stadt eine besondere Mischung aus Kultur, Natur und gehobenem Lifestyle.",
+  "preis": "1380 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Schweiz",
+  "transport": {
+    "typ": "Bahn",
+    "flugzeit": "ca. 1h (ab DE)",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": "ja"
+  },
+  "zeitraum": {
+    "von": "2026-06-06",
+    "bis": "2026-06-10"
+  },
+  "hotel": {
+    "hotel_name": "Lake Geneva Grand Resort",
+    "sterne": 5,
+    "verpflegung": "Halbpension",
+    "lage": "Seelage",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "Mai – September",
+  "highlights": [
+    "Jet d’Eau",
+    "Genfersee",
+    "UNO Gebäude",
+    "Altstadt Genf",
+    "Blumenuhr"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Zurich",
+  "pool": false,
+  "wifi": false,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 9,
+  "nachtleben_level": 6,
+  "geeignet_fuer": ["Kultur", "Natur", "Städtereise", "Entspannung"]
+},{
+  "name": "Löwen",
+  "image": "images/loewen.webp",
+  "beschreibung_kurz": "Lebendige Universitätsstadt mit gotischer Architektur und jungem Flair.",
+  "beschreibung_lang": "Löwen ist geprägt von seiner traditionsreichen Universität und einer lebhaften Atmosphäre. Historische Gebäude wie das prächtige Rathaus treffen auf eine dynamische Studentenszene mit vielen Cafés, Bars und kulturellen Angeboten.",
+  "preis": "850 Euro pro Person",
+  "dauer_tage": 3,
+  "land": "Belgien",
+  "transport": {
+    "typ": "Bahn",
+    "flugzeit": "ca. 4h (ab DE)",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-25",
+    "bis": "2026-05-28"
+  },
+  "hotel": {
+    "hotel_name": "Leuven Central Hotel",
+    "sterne": 3,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "April – Oktober",
+  "highlights": [
+    "Rathaus Löwen",
+    "Alte Markt",
+    "Universität Löwen",
+    "Botanischer Garten",
+    "St. Peter Kirche"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Brussels",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 6,
+  "nachtleben_level": 8,
+  "geeignet_fuer": ["Städtereise", "Kultur", "Nachtleben"]
+},
+{
+  "name": "Rotterdam",
+  "image": "images/rotterdam.webp",
+  "beschreibung_kurz": "Moderne Hafenstadt mit innovativer Architektur und urbanem Flair.",
+  "beschreibung_lang": "Rotterdam ist bekannt für seine moderne Skyline und kreative Atmosphäre. Nach dem Wiederaufbau entwickelte sich die Stadt zu einem Zentrum für Architektur, Design und Kultur mit beeindruckenden Bauwerken und einem der größten Häfen der Welt.",
+  "preis": "980 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Niederlande",
+  "transport": {
+    "typ": "Bahn",
+    "flugzeit": "ca. 3h (ab DE)",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-08-15",
+    "bis": "2026-08-19"
+  },
+  "hotel": {
+    "hotel_name": "Rotterdam Skyline Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "Mai – September",
+  "highlights": [
+    "Erasmusbrücke",
+    "Kubushäuser",
+    "Markthal",
+    "Hafenrundfahrt",
+    "Euromast"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Amsterdam",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 6,
+  "nachtleben_level": 8,
+  "geeignet_fuer": ["Städtereise", "Architektur", "Kultur"]
+},{
+  "name": "Antwerpen",
+  "image": "images/antwerpen.webp",
+  "beschreibung_kurz": "Belgische Hafenstadt mit Mode, Diamanten und historischer Altstadt.",
+  "beschreibung_lang": "Antwerpen vereint beeindruckende Architektur mit modernem Lifestyle. Die Stadt ist bekannt für ihre Mode- und Diamantenindustrie sowie für ihre lebendige Kulturszene, charmante Plätze und das eindrucksvolle Hafenviertel.",
+  "preis": "920 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Belgien",
+  "transport": {
+    "typ": "Bahn",
+    "flugzeit": "ca. 4h (ab DE)",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-20",
+    "bis": "2026-05-24"
+  },
+  "hotel": {
+    "hotel_name": "Antwerp City Boutique Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "April – September",
+  "highlights": [
+    "Kathedrale Unserer Lieben Frau",
+    "Grote Markt",
+    "MAS Museum",
+    "Diamantenviertel",
+    "Hafen Antwerpen"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Brussels",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 7,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Kultur", "Städtereise", "Shopping"]
+},
+{
+  "name": "Bangkok",
+  "image": "images/bangkok.webp",
+  "beschreibung_kurz": "Lebendige Stadt voller Tempel, Märkte und Streetfood.",
+  "beschreibung_lang": "Bangkok ist eine pulsierende Metropole mit goldenen Tempeln, schwimmenden Märkten und einer berühmten Streetfood-Kultur.",
+  "preis": "1300 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "Thailand",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "10-11h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-01",
+    "bis": "2026-06-07"
+  },
+  "hotel": {
+    "hotel_name": "Bangkok Riverside Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Flussufer",
+    "barrierefreundlich": true
+  },
+  "klima": "tropisch",
+  "beste_reisezeit": "November – Februar",
+  "highlights": ["Grand Palace", "Wat Arun", "Floating Markets", "Chatuchak Market"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+   
+    "kontinent": "Asien",
+    "zeitzone": "Asia/Bangkok",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 10,
+    "geeignet_fuer": ["Streetfood", "Kultur", "Nightlife"]
+},
+{
+  "name": "Dubai",
+  "image": "images/dubai.webp",
+  "beschreibung_kurz": "Luxusstadt mit Wolkenkratzern und Wüstenabenteuer.",
+  "beschreibung_lang": "Dubai ist bekannt für seine moderne Architektur, Shopping-Malls und die umliegende Wüste mit Safari-Erlebnissen.",
+  "preis": "1600 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "Vereinigte Arabische Emirate",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "6h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-03-15",
+    "bis": "2026-03-21"
+  },
+  "hotel": {
+    "hotel_name": "Dubai Skyline Hotel",
+    "sterne": 5,
+    "verpflegung": "Frühstück",
+    "lage": "Downtown",
+    "barrierefreundlich": true
+  },
+  "klima": "heiß-trocken",
+  "beste_reisezeit": "November – März",
+  "highlights": ["Burj Khalifa", "Dubai Mall", "Wüstensafari", "Palm Jumeirah"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+    "kontinent": "Asien",
+    "zeitzone": "Asia/Dubai",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 8,
+    "geeignet_fuer": ["Luxus", "Shopping", "Wüste"]
+},{
+  "name": "Malta",
+  "image": "images/malta.webp",
+  "beschreibung_kurz": "Sonnige Mittelmeerinsel mit Geschichte, Buchten und kristallklarem Wasser.",
+  "beschreibung_lang": "Malta kombiniert jahrtausendealte Geschichte mit mediterranem Lebensgefühl. Die Insel bietet beeindruckende Festungsstädte, türkisfarbene Buchten und eine lebendige Mischung aus Kultur, Stränden und entspanntem Inselleben.",
+  "preis": "1150 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Malta",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "3h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-10",
+    "bis": "2026-05-16"
+  },
+  "hotel": {
+    "hotel_name": "Seaview Grand Palace Malta",
+    "sterne": 4,
+    "verpflegung": "Frühstück + Abendessen",
+    "lage": "St. Julian’s Küste",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "März – Juni, September – November",
+  "highlights": [
+    "Valletta Altstadt",
+    "Blue Lagoon",
+    "Mdina",
+    "Gozo Insel",
+    "St. John's Co-Cathedral"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Malta",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 9,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Strand", "Kultur", "Städtereise"]
+},
+{
+  "name": "Sydney",
+  "image": "images/sydney.webp",
+  "beschreibung_kurz": "Hafenstadt mit Oper, Stränden und Sonne.",
+  "beschreibung_lang": "Sydney ist Australiens größte Stadt mit weltbekannter Oper, schönen Stränden und einem entspannten Lebensstil.",
+  "preis": "2200 Euro pro Person",
+  "dauer_tage": 8,
+  "land": "Australien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "20-22h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-02-10",
+    "bis": "2026-02-18"
+  },
+  "hotel": {
+    "hotel_name": "Sydney Harbour Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Hafen",
+    "barrierefreundlich": true
+  },
+  "klima": "mild-warm",
+  "beste_reisezeit": "September – April",
+  "highlights": ["Sydney Opera House", "Harbour Bridge", "Bondi Beach", "Darling Harbour"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+   
+    "kontinent": "Australien",
+    "zeitzone": "Australia/Sydney",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 8,
+    "geeignet_fuer": ["Strand", "City", "Natur"]
+},
+{
+  "name": "Rio de Janeiro",
+  "image": "images/rio.webp",
+  "beschreibung_kurz": "Samba-Stadt mit Stränden und Bergen.",
+  "beschreibung_lang": "Rio ist berühmt für den Zuckerhut, die Christusstatue und Strände wie Copacabana und Ipanema.",
+  "preis": "1800 Euro pro Person",
+  "dauer_tage": 7,
+  "land": "Brasilien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "12-14h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-07-01",
+    "bis": "2026-07-08"
+  },
+  "hotel": {
+    "hotel_name": "Rio Beach Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Copacabana",
+    "barrierefreundlich": true
+  },
+  "klima": "tropisch",
+  "beste_reisezeit": "Mai – Oktober",
+  "highlights": ["Christusstatue", "Zuckerhut", "Copacabana", "Ipanema"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+    "kontinent": "Südamerika",
+    "zeitzone": "America/Sao_Paulo",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 10,
+    "geeignet_fuer": ["Strand", "Party", "Natur"]
+},{
+  "name": "Bangkok",
+  "image": "images/bangkok.webp",
+  "beschreibung_kurz": "Moderne Metropole mit Rooftop-Bars und kulturellen Highlights.",
+  "beschreibung_lang": "Bangkok verbindet Tradition und Moderne: beeindruckende Tempel treffen auf luxuriöse Rooftop-Bars, riesige Shopping-Malls und ein aufregendes Nachtleben.",
+  "preis": "1550 Euro pro Person",
+  "dauer_tage": 7,
+  "land": "Thailand",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "10-11h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-07-10",
+    "bis": "2026-07-17"
+  },
+  "hotel": {
+    "hotel_name": "Skyline Grand Hotel Bangkok",
+    "sterne": 5,
+    "verpflegung": "Frühstück & Abendessen",
+    "lage": "Stadtzentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "tropisch",
+  "beste_reisezeit": "November – Februar",
+  "highlights": ["Rooftop Bars", "MBK Center", "Wat Pho", "Asiatique Riverfront"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+  "kontinent": "Asien",
+  "zeitzone": "Asia/Bangkok",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": false,
+  "romantik_score": 8,
+  "nachtleben_level": 10,
+  "geeignet_fuer": ["Luxus", "Shopping", "Nightlife"]
+},
+{
+  "name": "Kapstadt",
+  "image": "images/kapstadt.webp",
+  "beschreibung_kurz": "Stadt zwischen Bergen, Ozean und Natur.",
+  "beschreibung_lang": "Kapstadt liegt am Tafelberg und bietet eine Mischung aus Natur, Stränden und urbanem Leben.",
+  "preis": "1700 Euro pro Person",
+  "dauer_tage": 7,
+  "land": "Südafrika",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "11-12h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-09-10",
+    "bis": "2026-09-17"
+  },
+  "hotel": {
+    "hotel_name": "Cape View Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Küste",
+    "barrierefreundlich": true
+  },
+  "klima": "mild",
+  "beste_reisezeit": "November – März",
+  "highlights": ["Tafelberg", "Kap der Guten Hoffnung", "Boulders Beach", "V&A Waterfront"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+    "kontinent": "Afrika",
+    "zeitzone": "Africa/Johannesburg",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Natur", "Strand", "Abenteuer"]
+},
+{
+  "name": "Amsterdam",
+  "image": "images/amsterdam.webp",
+  "beschreibung_kurz": "Grachtenstadt mit Kunst, Fahrrädern und Freiheit.",
+  "beschreibung_lang": "Amsterdam ist bekannt für seine Kanäle, Museen wie das Van-Gogh-Museum und eine entspannte Fahrradkultur.",
+  "preis": "1000 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Niederlande",
+  "transport": {
+    "typ": "Bahn",
+    "fahrzeit": "5-7h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-01",
+    "bis": "2026-05-05"
+  },
+  "hotel": {
+    "hotel_name": "Amsterdam Canal Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "mild",
+  "beste_reisezeit": "April – September",
+  "highlights": ["Grachten", "Rijksmuseum", "Anne-Frank-Haus", "Vondelpark"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Amsterdam",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 9,
+    "geeignet_fuer": ["Kultur", "Fahrrad", "Städtereise"]
+},
+{
+  "name": "Prag",
+  "image": "images/prag.webp",
+  "beschreibung_kurz": "Märchenhafte Altstadt mit Burg und Brücken.",
+  "beschreibung_lang": "Prag ist eine der schönsten Städte Europas mit einer gut erhaltenen Altstadt und der berühmten Karlsbrücke.",
+  "preis": "700 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Tschechien",
+  "transport": {
+    "typ": "Bahn",
+    "fahrzeit": "4-6h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-04-10",
+    "bis": "2026-04-14"
+  },
+  "hotel": {
+    "hotel_name": "Prag Old Town Hotel",
+    "sterne": 3,
+    "verpflegung": "Frühstück",
+    "lage": "Altstadt",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "April – Oktober",
+  "highlights": ["Karlsbrücke", "Prager Burg", "Altstadtplatz", "Astronomische Uhr"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Prague",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 8,
+    "geeignet_fuer": ["Kultur", "Historie", "Kurztrip"]
+},
+{
+  "name": "Wien",
+  "image": "images/wien.webp",
+  "beschreibung_kurz": "Kaiserstadt mit Musik, Kaffeehäusern und Kultur.",
+  "beschreibung_lang": "Wien verbindet kaiserliche Geschichte mit moderner Lebensqualität und ist berühmt für Musik und Architektur.",
+  "preis": "950 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Österreich",
+  "transport": {
+    "typ": "Bahn",
+    "fahrzeit": "3-5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-20",
+    "bis": "2026-05-24"
+  },
+  "hotel": {
+    "hotel_name": "Vienna Central Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Innenstadt",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "April – Oktober",
+  "highlights": ["Schloss Schönbrunn", "Stephansdom", "Prater", "Kaffeehäuser"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Vienna",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Kultur", "Musik", "Städtereise"]
+},
+{
+  "name": "Zürich",
+  "image": "images/zuerich.webp",
+  "beschreibung_kurz": "Moderne Stadt am See mit Alpenblick.",
+  "beschreibung_lang": "Zürich ist ein Finanzzentrum mit hoher Lebensqualität, Seeufer und Nähe zu den Alpen.",
+  "preis": "1300 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Schweiz",
+  "transport": {
+    "typ": "Bahn",
+    "fahrzeit": "4-6h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-01",
+    "bis": "2026-06-05"
+  },
+  "hotel": {
+    "hotel_name": "Zurich Lake Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Seeufer",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Zürichsee", "Altstadt", "Bahnhofstrasse", "Uetliberg"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Zurich",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Städtereise", "Natur", "Luxus"]
+},
+{
+  "name": "Edinburgh",
+  "image": "images/edinburgh.webp",
+  "beschreibung_kurz": "Historische Hauptstadt Schottlands mit Burg und Festival.",
+  "beschreibung_lang": "Edinburgh bietet eine beeindruckende Burg, mittelalterliche Altstadt und weltbekannte Festivals.",
+  "preis": "1200 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Vereinigtes Königreich",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2-3h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-08-01",
+    "bis": "2026-08-06"
+  },
+  "hotel": {
+    "hotel_name": "Edinburgh Castle View Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Altstadt",
+    "barrierefreundlich": true
+  },
+  "klima": "kühl-gemäßigt",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Edinburgh Castle", "Royal Mile", "Arthur’s Seat", "Old Town"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+    "kontinent": "Europa",
+    "zeitzone": "Europe/London",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 8,
+    "geeignet_fuer": ["Kultur", "Geschichte", "Städtereise"]
+},
+{
+  "name": "Kopenhagen",
+  "image": "images/kopenhagen.webp",
+  "beschreibung_kurz": "Designstadt mit Hafen, Farben und Lebensqualität.",
+  "beschreibung_lang": "Kopenhagen ist bekannt für moderne Architektur, Fahrräder und den Hafen Nyhavn mit bunten Häusern.",
+  "preis": "1100 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Dänemark",
+  "transport": {
+    "typ": "Bahn/Flug",
+    "fahrzeit": "2-6h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-10",
+    "bis": "2026-06-14"
+  },
+  "hotel": {
+    "hotel_name": "Copenhagen City Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "mild",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Nyhavn", "Kleine Meerjungfrau", "Tivoli", "Hafen"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Copenhagen",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 8,
+    "geeignet_fuer": ["Design", "Kultur", "Fahrrad"]
+},
+{
+  "name": "Budapest",
+  "image": "images/budapest.webp",
+  "beschreibung_kurz": "Thermalbäder, Donau und beeindruckende Architektur.",
+  "beschreibung_lang": "Budapest vereint Buda und Pest mit der Donau, historischen Bädern und prächtigen Gebäuden.",
+  "preis": "800 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Ungarn",
+  "transport": {
+    "typ": "Bahn/Flug",
+    "fahrzeit": "4-8h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-05",
+    "bis": "2026-05-09"
+  },
+  "hotel": {
+    "hotel_name": "Danube View Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Donauufer",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "April – Oktober",
+  "highlights": ["Parlament", "Kettenbrücke", "Thermalbäder", "Burgpalast"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Budapest",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 9,
+    "geeignet_fuer": ["Thermalbäder", "Kultur", "Städtereise"]
+},{
+  "name": "Namibia",
+  "image": "images/namibia.webp",
+  "beschreibung_kurz": "Weites Wüstenland mit spektakulären Landschaften und einzigartiger Tierwelt.",
+  "beschreibung_lang": "Namibia fasziniert mit endlosen Wüsten, beeindruckenden Dünen und einer vielfältigen Tierwelt. Von der Namib-Wüste bis zum Etosha-Nationalpark bietet das Land unvergessliche Naturerlebnisse und eine besondere Ruhe fernab großer Städte.",
+  "preis": "3200 Euro pro Person",
+  "dauer_tage": 10,
+  "land": "Namibia",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "10-11h",
+    "barrierefreundlich": false,
+    "rollstuhl_möglich": "eingeschränkt"
+  },
+  "zeitraum": {
+    "von": "2026-09-01",
+    "bis": "2026-09-11"
+  },
+  "hotel": {
+    "hotel_name": "Namibia Desert Lodge",
+    "sterne": 4,
+    "verpflegung": "Halbpension",
+    "lage": "Natur / Wüste",
+    "barrierefreundlich": "teilweise"
+  },
+  "klima": "Heiß",
+  "beste_reisezeit": "Mai – Oktober",
+  "highlights": [
+    "Namib-Wüste",
+    "Sossusvlei Dünen",
+    "Etosha Nationalpark",
+    "Deadvlei",
+    "Swakopmund"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "eingeschränkt"
+  },
+  
+  "kontinent": "Afrika",
+  "zeitzone": "Africa/Windhoek",
+  "pool": true,
+  "wifi": false,
+  "empfohlen_fuer_erstbesucher": false,
+  "romantik_score": 8,
+  "nachtleben_level": 3,
+  "geeignet_fuer": ["Natur", "Abenteuer", "Safari"]
+},{
+  "name": "Sansibar",
+  "image": "images/sansibar.webp",
+  "beschreibung_kurz": "Tropische Insel mit weißen Stränden, türkisblauem Meer und exotischem Flair.",
+  "beschreibung_lang": "Sansibar begeistert mit palmengesäumten Stränden, kristallklarem Wasser und einer faszinierenden Mischung aus afrikanischen, arabischen und europäischen Einflüssen. Neben Erholung am Strand bietet die Insel auch historische Orte wie Stone Town und vielfältige Naturerlebnisse.",
+  "preis": "2400 Euro pro Person",
+  "dauer_tage": 8,
+  "land": "Tansania",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "9-10h",
+    "barrierefreundlich": false,
+    "rollstuhl_möglich": "eingeschränkt"
+  },
+  "zeitraum": {
+    "von": "2026-10-05",
+    "bis": "2026-10-13"
+  },
+  "hotel": {
+    "hotel_name": "Zanzibar Ocean Paradise Resort",
+    "sterne": 5,
+    "verpflegung": "All Inclusive",
+    "lage": "Strandlage",
+    "barrierefreundlich": "teilweise"
+  },
+  "klima": "Heiß",
+  "beste_reisezeit": "Juni – Oktober, Dezember – Februar",
+  "highlights": [
+    "Stone Town",
+    "Nungwi Strand",
+    "Mnemba Atoll",
+    "Gewürztouren",
+    "Jozani Forest"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "eingeschränkt"
+  },
+ 
+  "kontinent": "Afrika",
+  "zeitzone": "Africa/Dar_es_Salaam",
+  "pool": true,
+  "wifi": false,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 10,
+  "nachtleben_level": 6,
+  "geeignet_fuer": ["Strand", "Entspannung", "Exotik"]
+},
+{
+  "name": "Bratislava",
+  "image": "images/bratislava.webp",
+  "beschreibung_kurz": "Kleine Hauptstadt an der Donau mit Altstadtflair.",
+  "beschreibung_lang": "Bratislava liegt direkt an der Donau und bietet eine kompakte Altstadt, Burgen und Nähe zu Wien.",
+  "preis": "650 Euro pro Person",
+  "dauer_tage": 3,
+  "land": "Slowakei",
+  "transport": {
+    "typ": "Bahn",
+    "fahrzeit": "4-6h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-04-20",
+    "bis": "2026-04-23"
+  },
+  "hotel": {
+    "hotel_name": "Bratislava Riverside Hotel",
+    "sterne": 3,
+    "verpflegung": "Frühstück",
+    "lage": "Altstadt",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "April – September",
+  "highlights": ["Bratislava Burg", "Altstadt", "Donau", "UFO Bridge"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Bratislava",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Kurztrip", "Kultur", "Ruhe"]
+},
+{
+  "name": "Neapel",
+  "image": "images/neapel.webp",
+  "beschreibung_kurz": "Pizza, Vesuv und Tor zur Amalfiküste.",
+  "beschreibung_lang": "Neapel ist eine lebendige Stadt im Süden Italiens, bekannt für echte Pizza, den Vesuv und als Ausgangspunkt zur Amalfiküste und nach Pompeji.",
+  "preis": "1100 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Italien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-10",
+    "bis": "2026-05-15"
+  },
+  "hotel": {
+    "hotel_name": "Napoli City Hotel",
+    "sterne": 3,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "April – Juni, September – Oktober",
+  "highlights": ["Vesuv", "Pompeji", "Altstadt Neapel", "Amalfiküste"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Rome",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 8,
+    "geeignet_fuer": ["Essen", "Kultur", "Strand"]
+},
+{
+  "name": "Mailand",
+  "image": "images/mailand.webp",
+  "beschreibung_kurz": "Modehauptstadt mit Dom und Shopping.",
+  "beschreibung_lang": "Mailand ist Italiens Zentrum für Mode, Design und Wirtschaft. Der beeindruckende Dom und die Einkaufsstraßen prägen die Stadt.",
+  "preis": "1200 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Italien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "1.5-2h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-04-15",
+    "bis": "2026-04-19"
+  },
+  "hotel": {
+    "hotel_name": "Milano Central Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "April – Juni, September – Oktober",
+  "highlights": ["Mailänder Dom", "Galleria Vittorio Emanuele II", "Teatro La Scala", "Shopping Viertel"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+   
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Rome",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 9,
+    "geeignet_fuer": ["Mode", "Shopping", "Städtereise"]
+},
+{
+  "name": "Valencia",
+  "image": "images/valencia.webp",
+  "beschreibung_kurz": "Strandstadt mit moderner Architektur.",
+  "beschreibung_lang": "Valencia verbindet historische Altstadt mit futuristischer Architektur der Ciudad de las Artes y las Ciencias und schönen Stränden.",
+  "preis": "1300 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Spanien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2.5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-01",
+    "bis": "2026-06-06"
+  },
+  "hotel": {
+    "hotel_name": "Valencia Beach Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Küste",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "April – Oktober",
+  "highlights": ["Stadt der Künste", "Strand Malvarrosa", "Altstadt", "Mercado Central"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+   
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Madrid",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 8,
+    "geeignet_fuer": ["Strand", "Architektur", "Kultur"]
+},
+{
+  "name": "Granada",
+  "image": "images/granada.webp",
+  "beschreibung_kurz": "Alhambra und maurische Geschichte.",
+  "beschreibung_lang": "Granada ist bekannt für die beeindruckende Alhambra und seine maurische Vergangenheit. Die Stadt liegt am Fuße der Sierra Nevada.",
+  "preis": "1000 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Spanien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2.5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-05",
+    "bis": "2026-05-09"
+  },
+  "hotel": {
+    "hotel_name": "Granada View Hotel",
+    "sterne": 3,
+    "verpflegung": "Frühstück",
+    "lage": "Altstadt",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "April – Juni, September – Oktober",
+  "highlights": ["Alhambra", "Albaicín", "Kathedrale Granada", "Sierra Nevada"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+   
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Madrid",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Geschichte", "Kultur", "Berge"]
+},
+{
+  "name": "Split",
+  "image": "images/split.webp",
+  "beschreibung_kurz": "Küstenstadt mit Altstadt am Meer.",
+  "beschreibung_lang": "Split liegt an der Adriaküste und bietet eine historische Altstadt im Diokletianpalast sowie schöne Strände.",
+  "preis": "1100 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Kroatien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-10",
+    "bis": "2026-06-15"
+  },
+  "hotel": {
+    "hotel_name": "Split Marina Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Küste",
+    "barrierefreundlich": true
+  },
+  "klima": "mediterran",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Diokletianpalast", "Altstadt", "Adriaküste", "Strände"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Zagreb",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Strand", "Altstadt", "Küste"]
+},
+{
+  "name": "Dubrovnik",
+  "image": "images/dubrovnik.webp",
+  "beschreibung_kurz": "Mittelalterliche Stadt an der Adria.",
+  "beschreibung_lang": "Dubrovnik ist berühmt für seine Stadtmauern und wurde durch Serien wie Game of Thrones weltweit bekannt.",
+  "preis": "1200 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Kroatien",
+  "transport": {
+  "typ": "Kreuzfahrt",
+  "dauer": "1 Tage",
+  "barrierefreundlich": true,
+  "rollstuhl_möglich": true
+},
+  "zeitraum": {
+    "von": "2026-06-15",
+    "bis": "2026-06-20"
+  },
+  "hotel": {
+    "hotel_name": "Dubrovnik Old Town Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Altstadt",
+    "barrierefreundlich": true
+  },
+  "klima": "mediterran",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Stadtmauern", "Altstadt", "Stradun", "Adria"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Zagreb",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Küste", "Geschichte", "Strand"]
+},
+{
+  "name": "Reykjavík",
+  "image": "images/reykjavik.webp",
+  "beschreibung_kurz": "Natur, Nordlichter und Vulkane.",
+  "beschreibung_lang": "Reykjavík ist die nördlichste Hauptstadt der Welt und bekannt für Nordlichter, heiße Quellen und beeindruckende Natur.",
+  "preis": "1700 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Island",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "4h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-03-01",
+    "bis": "2026-03-06"
+  },
+  "hotel": {
+    "hotel_name": "Reykjavík Aurora Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "kühl",
+  "beste_reisezeit": "September – März (Nordlichter)",
+  "highlights": ["Nordlichter", "Blauer Lagune", "Geysire", "Vulkanlandschaft"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+    "kontinent": "Europa",
+    "zeitzone": "Atlantic/Reykjavik",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Natur", "Nordlichter", "Abenteuer"]
+},{
+  "name": "Neapel",
+  "image": "images/neapel.webp",
+  "beschreibung_kurz": "Lebendige Küstenstadt mit Geschichte, Meerblick und italienischer Küche.",
+  "beschreibung_lang": "Neapel vereint süditalienische Lebensfreude mit beeindruckender Geschichte und spektakulärer Lage am Golf von Neapel. Die Stadt ist berühmt für ihre authentische Pizza, ihre engen Altstadtgassen und als perfekter Ausgangspunkt für Ausflüge zum Vesuv, nach Pompeji und zur Amalfiküste.",
+  "preis": "1320 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "Italien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-02",
+    "bis": "2026-06-08"
+  },
+  "hotel": {
+    "hotel_name": "Vesuvio Bay Resort Napoli",
+    "sterne": 4,
+    "verpflegung": "Halbpension",
+    "lage": "Küste mit Stadtblick",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "April – Juni, September – Oktober",
+  "highlights": ["Vesuv", "Pompeji", "Altstadt Neapel", "Amalfiküste"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Rome",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 8,
+  "nachtleben_level": 8,
+  "geeignet_fuer": ["Essen", "Kultur", "Strand"]
+},
+{
+  "name": "Helsinki",
+  "image": "images/helsinki.webp",
+  "beschreibung_kurz": "Designstadt am Meer mit moderner Architektur.",
+  "beschreibung_lang": "Helsinki verbindet skandinavisches Design mit Natur und Küste. Die Stadt ist ruhig, modern und sehr lebenswert.",
+  "preis": "1400 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Finnland",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2.5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-01",
+    "bis": "2026-06-05"
+  },
+  "hotel": {
+    "hotel_name": "Helsinki Sea Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Küste",
+    "barrierefreundlich": true
+  },
+  "klima": "kühl",
+  "beste_reisezeit": "Mai – August",
+  "highlights": ["Senatsplatz", "Dom von Helsinki", "Suomenlinna", "Hafen"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Helsinki",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Design", "Natur", "Küste"]
+},
+{
+  "name": "Oslo",
+  "image": "images/oslo.webp",
+  "beschreibung_kurz": "Moderne Hauptstadt zwischen Fjorden und Natur.",
+  "beschreibung_lang": "Oslo bietet eine Mischung aus moderner Architektur, Museen und direktem Zugang zu Fjorden und Natur.",
+  "preis": "1500 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Norwegen",
+ "transport": {
+  "typ": "Kreuzfahrt",
+  "dauer": "2 Tage",
+  "barrierefreundlich": true,
+  "rollstuhl_möglich": true
+},
+  "zeitraum": {
+    "von": "2026-06-10",
+    "bis": "2026-06-14"
+  },
+  "hotel": {
+    "hotel_name": "Oslo Fjord Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "kühl",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Opernhaus Oslo", "Fjord", "Vigeland Park", "Museumsinsel"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Oslo",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Natur", "Fjord", "Städtereise"]
+},
+{
+  "name": "Stockholm",
+  "image": "images/stockholm.webp",
+  "beschreibung_kurz": "Inselstadt mit Altstadt und Wasserblick.",
+  "beschreibung_lang": "Stockholm liegt auf vielen Inseln und verbindet Wasser, historische Altstadt und modernes skandinavisches Design.",
+  "preis": "1400 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Schweden",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2.5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-05",
+    "bis": "2026-06-09"
+  },
+  "hotel": {
+    "hotel_name": "Stockholm Waterfront Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "kühl-gemäßigt",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Gamla Stan", "Vasa Museum", "Schären", "Königspalast"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+   
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Stockholm",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 8,
+    "geeignet_fuer": ["Inseln", "Design", "Kultur"]
+},
+{
+  "name": "Mexico City",
+  "image": "images/mexico_city.webp",
+  "beschreibung_kurz": "Kultur, Geschichte und riesige Metropole.",
+  "beschreibung_lang": "Mexico City ist eine der größten Städte der Welt mit Azteken-Geschichte, Museen und lebendigen Vierteln.",
+  "preis": "1500 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "Mexiko",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "12-13h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-07-01",
+    "bis": "2026-07-07"
+  },
+  "hotel": {
+    "hotel_name": "Mexico City Central Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt-warm",
+  "beste_reisezeit": "März – Mai, Oktober – November",
+  "highlights": ["Zócalo", "Teotihuacán", "Frida Kahlo Museum", "Chapultepec Park"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+   
+    "kontinent": "Nordamerika",
+    "zeitzone": "America/Mexico_City",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 9,
+    "geeignet_fuer": ["Kultur", "Food", "Großstadt"]
+},
+{
+  "name": "Buenos Aires",
+  "image": "images/buenos_aires.webp",
+  "beschreibung_kurz": "Tango, Kultur und europäisches Flair in Südamerika.",
+  "beschreibung_lang": "Buenos Aires ist bekannt für Tango, beeindruckende Architektur und eine Mischung aus europäischem und lateinamerikanischem Lebensstil.",
+  "preis": "1700 Euro pro Person",
+  "dauer_tage": 7,
+  "land": "Argentinien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "14-15h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-20",
+    "bis": "2026-05-27"
+  },
+  "hotel": {
+    "hotel_name": "Buenos Aires Plaza Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "März – Mai, September – November",
+  "highlights": ["La Boca", "Tango Shows", "Plaza de Mayo", "Recoleta"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+    "kontinent": "Südamerika",
+    "zeitzone": "America/Argentina/Buenos_Aires",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 10,
+    "geeignet_fuer": ["Tango", "Kultur", "City"]
+},{
+  "name": "Granada",
+  "image": "images/granada.webp",
+  "beschreibung_kurz": "Historische Stadt mit maurischem Erbe und beeindruckender Bergkulisse.",
+  "beschreibung_lang": "Granada liegt am Fuße der Sierra Nevada und verbindet orientalische Geschichte mit andalusischem Lebensgefühl. Die weltberühmte Alhambra, enge Gassen im Albaicín und lebendige Plätze machen die Stadt zu einem einzigartigen Reiseziel voller Kultur und Atmosphäre.",
+  "preis": "1180 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Spanien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2.5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-10",
+    "bis": "2026-06-15"
+  },
+  "hotel": {
+    "hotel_name": "Sierra Alhambra Boutique Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück + Abendessen",
+    "lage": "Nähe Alhambra",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "April – Juni, September – Oktober",
+  "highlights": ["Alhambra", "Albaicín", "Kathedrale Granada", "Sierra Nevada"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Madrid",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 9,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Geschichte", "Kultur", "Berge"]
+},
+{
+  "name": "Lima",
+  "image": "images/lima.webp",
+  "beschreibung_kurz": "Pazifikstadt mit einer der besten Küchen der Welt.",
+  "beschreibung_lang": "Lima ist die Hauptstadt Perus und bekannt für ihre Gastronomie, Küstenlage und historische Altstadt.",
+  "preis": "1600 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "Peru",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "13-14h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-10",
+    "bis": "2026-06-16"
+  },
+  "hotel": {
+    "hotel_name": "Lima Ocean Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Küste",
+    "barrierefreundlich": true
+  },
+  "klima": "trocken-mild",
+  "beste_reisezeit": "Dezember – April",
+  "highlights": ["Altstadt Lima", "Miraflores", "Pazifik-Küste", "Kulinarik-Szene"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+    "kontinent": "Südamerika",
+    "zeitzone": "America/Lima",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Food", "Küste", "Kultur"]
+},{
+  "name": "Seoul",
+  "image": "images/seoul.webp",
+  "beschreibung_kurz": "Hightech, K-Pop und traditionelle Paläste.",
+  "beschreibung_lang": "Seoul ist eine moderne Megastadt mit futuristischer Technik, historischen Palästen und einer weltweit bekannten Popkultur.",
+  "preis": "1800 Euro pro Person",
+  "dauer_tage": 7,
+  "land": "Südkorea",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "10-11h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-04-01",
+    "bis": "2026-04-08"
+  },
+  "hotel": {
+    "hotel_name": "Seoul City Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Gangnam",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "April – Juni, September – Oktober",
+  "highlights": ["Gyeongbokgung Palast", "N Seoul Tower", "Myeongdong", "Han River"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+    "kontinent": "Asien",
+    "zeitzone": "Asia/Seoul",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 9,
+    "geeignet_fuer": ["K-Pop", "Technologie", "Kultur"]
+},{
+  "name": "Brüssel",
+  "image": "images/bruessel.webp",
+  "beschreibung_kurz": "EU-Hauptstadt mit historischem Charme und moderner Politik.",
+  "beschreibung_lang": "Brüssel verbindet mittelalterliche Architektur, berühmte Plätze wie den Grand Place und die Rolle als politisches Zentrum Europas. Die Stadt ist bekannt für Schokolade, Waffeln und multikulturelles Flair.",
+  "preis": "1200 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Belgien",
+  "transport": {
+    "typ": "Bahn/Flug",
+    "flugzeit": "1-2h (ab DE)",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-04-01",
+    "bis": "2026-04-05"
+  },
+  "hotel": {
+    "hotel_name": "Brussels Central Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt-ozeanisch",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Grand Place", "Atomium", "Manneken Pis", "EU-Viertel"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Brussels",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 7,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Kultur", "Politik", "Kulinarik"]
+},{
+  "name": "Liverpool",
+  "image": "images/liverpool.webp",
+  "beschreibung_kurz": "Musikstadt der Beatles mit maritimer Geschichte.",
+  "beschreibung_lang": "Liverpool ist eine lebendige Hafenstadt in England, weltbekannt als Heimat der Beatles und für ihre Fußballkultur. Die Stadt verbindet industrielle Geschichte mit moderner Kultur und Musik.",
+  "preis": "1100 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Vereinigtes Königreich",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2-3h (ab DE)",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-04-01",
+    "bis": "2026-04-05"
+  },
+  "hotel": {
+    "hotel_name": "Liverpool Waterfront Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Albert Dock",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt-maritim",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["The Beatles Story", "Albert Dock", "Anfield Stadium", "Pier Head"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+  "kontinent": "Europa",
+  "zeitzone": "Europe/London",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 6,
+  "nachtleben_level": 8,
+  "geeignet_fuer": ["Musik", "Fußball", "Geschichte"]
+},
+{
+  "name": "Salzburg",
+  "image": "images/salzburg.webp",
+  "beschreibung_kurz": "Mozartstadt mit barocker Altstadt und Alpenkulisse.",
+  "beschreibung_lang": "Salzburg ist eine der schönsten Städte Österreichs und bekannt für ihre barocke Architektur, die Festung Hohensalzburg und als Geburtsort von Mozart. Die Stadt verbindet Kultur, Geschichte und eine beeindruckende Alpenlandschaft.",
+  "preis": "1300 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Österreich",
+  "transport": {
+    "typ": "Bahn/Auto",
+    "flugzeit": "—",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-01",
+    "bis": "2026-05-05"
+  },
+  "hotel": {
+    "hotel_name": "Salzburg Altstadt Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Altstadt",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt-alpin",
+  "beste_reisezeit": "Mai – September, Dezember",
+  "highlights": ["Festung Hohensalzburg", "Mozarts Geburtshaus", "Mirabellgarten", "Altstadt Salzburg"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Vienna",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 9,
+  "nachtleben_level": 6,
+  "geeignet_fuer": ["Kultur", "Geschichte", "Natur"]
+},{
+  "name": "Innsbruck",
+  "image": "images/innsbruck.webp",
+  "beschreibung_kurz": "Alpenstadt für Natur, Sport und Geschichte.",
+  "beschreibung_lang": "Innsbruck liegt mitten in den Alpen und ist bekannt für Wintersport, beeindruckende Berglandschaften und historische Sehenswürdigkeiten wie das Goldene Dachl. Die Stadt kombiniert Outdoor-Abenteuer mit urbanem Flair.",
+  "preis": "1250 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Österreich",
+  "transport": {
+    "typ": "Bahn/Auto",
+    "flugzeit": "—",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-01",
+    "bis": "2026-05-05"
+  },
+  "hotel": {
+    "hotel_name": "Innsbruck Mountain Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "alpin",
+  "beste_reisezeit": "Dezember – März, Juni – September",
+  "highlights": ["Goldenes Dachl", "Nordkette", "Altstadt Innsbruck", "Bergisel Skisprungschanze"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Vienna",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 8,
+  "nachtleben_level": 6,
+  "geeignet_fuer": ["Natur", "Sport", "Berge"]
+}, {
+  "name": "Graz",
+  "image": "images/graz.webp",
+  "beschreibung_kurz": "Junge Kulturstadt mit mediterranem Flair.",
+  "beschreibung_lang": "Graz ist eine lebendige Studentenstadt mit einer gut erhaltenen Altstadt, die zum UNESCO-Weltkulturerbe gehört. Die Stadt verbindet historische Gebäude mit moderner Architektur und einer entspannten Atmosphäre.",
+  "preis": "1150 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Österreich",
+  "transport": {
+    "typ": "Bahn/Auto",
+    "flugzeit": "—",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-01",
+    "bis": "2026-05-05"
+  },
+  "hotel": {
+    "hotel_name": "Graz City Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "April – Oktober",
+  "highlights": ["Schlossberg", "Uhrturm Graz", "Kunsthaus Graz", "Altstadt Graz"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Vienna",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 7,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Kultur", "Kulinarik", "Städtereise"]
+},
+{
+  "name": "Monaco",
+  "image": "images/monaco.webp",
+  "beschreibung_kurz": "Luxus, Yachten und Formel-1-Flair an der Côte d’Azur.",
+  "beschreibung_lang": "Monaco ist ein glamouröser Stadtstaat an der französischen Riviera, bekannt für Luxus, das berühmte Casino von Monte-Carlo und den Formel-1-Grand-Prix. Hier treffen Eleganz, Meerblick und exklusives Leben aufeinander.",
+  "preis": "2000 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Monaco",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "1.5-2h (ab DE, nach Nizza + Transfer)",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": false
+  },
+  "zeitraum": {
+    "von": "2026-05-10",
+    "bis": "2026-05-13"
+  },
+  "hotel": {
+    "hotel_name": "Monte Carlo Luxury Hotel",
+    "sterne": 5,
+    "verpflegung": "Frühstück",
+    "lage": "Monte Carlo",
+    "barrierefreundlich": true
+  },
+  "klima": "mediterran",
+  "beste_reisezeit": "April – Juni, September",
+  "highlights": ["Casino Monte-Carlo", "Hafen von Monaco", "Fürstenpalast", "Formel-1-Strecke"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": false
+  },
+ 
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Monaco",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": false,
+  "romantik_score": 9,
+  "nachtleben_level": 9,
+  "geeignet_fuer": ["Luxus", "Strand", "Nachtleben"]
+},
+{
+  "name": "Nizza",
+  "image": "images/nizza.webp",
+  "beschreibung_kurz": "Sonne, Strand und mediterranes Flair an der Côte d’Azur.",
+  "beschreibung_lang": "Nizza ist eine der beliebtesten Städte an der französischen Riviera mit traumhaften Stränden, einer lebendigen Altstadt und der berühmten Promenade des Anglais. Die Stadt bietet eine perfekte Mischung aus Erholung, Kultur und Genuss.",
+  "preis": "1500 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Frankreich",
+ "transport": {
+  "typ": "Kreuzfahrt",
+  "dauer": "2-3 Tage",
+  "barrierefreundlich": true,
+  "rollstuhl_möglich": true
+},
+  "zeitraum": {
+    "von": "2026-05-10",
+    "bis": "2026-05-14"
+  },
+  "hotel": {
+    "hotel_name": "Nice Beach Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Strandnähe",
+    "barrierefreundlich": true
+  },
+  "klima": "mediterran",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Promenade des Anglais", "Altstadt Nizza", "Colline du Château", "Strände von Nizza"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Paris",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 8,
+  "nachtleben_level": 8,
+  "geeignet_fuer": ["Strand", "Kulinarik", "Entspannung"]
+},
+{
+  "name": "Braga",
+  "image": "images/braga.webp",
+  "beschreibung_kurz": "Historische Stadt mit religiösem Erbe und portugiesischem Charme.",
+  "beschreibung_lang": "Braga ist eine der ältesten Städte Portugals und bekannt für ihre beeindruckenden Kirchen, barocke Architektur und das berühmte Heiligtum Bom Jesus do Monte. Die Stadt verbindet Tradition, Geschichte und eine lebendige Atmosphäre.",
+  "preis": "1100 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Portugal",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2.5-3h (ab DE, nach Porto + Transfer)",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": false
+  },
+  "zeitraum": {
+    "von": "2026-05-15",
+    "bis": "2026-05-19"
+  },
+  "hotel": {
+    "hotel_name": "Braga Heritage Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "mediterran",
+  "beste_reisezeit": "April – Juni, September – Oktober",
+  "highlights": ["Bom Jesus do Monte", "Kathedrale von Braga", "Altstadt Braga", "Santa Barbara Garten"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": false
+  },
+
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Lisbon",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": false,
+  "romantik_score": 7,
+  "nachtleben_level": 5,
+  "geeignet_fuer": ["Kultur", "Geschichte", "Entspannung"]
+},
+{
+  "name": "London",
+  "image": "images/london.webp",
+  "beschreibung_kurz": "Weltmetropole mit königlicher Geschichte, Kultur und modernem Flair.",
+  "beschreibung_lang": "London ist die Hauptstadt Großbritanniens und eine der spannendsten Städte der Welt. Die Stadt bietet eine einzigartige Mischung aus historischen Sehenswürdigkeiten wie dem Buckingham Palace, moderner Architektur, erstklassigen Museen und einem vielfältigen kulturellen Angebot. Ob Shopping, Theater oder kulinarische Entdeckungen – London hat für jeden etwas zu bieten.",
+  "preis": "1350 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Vereinigtes Königreich",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "1.5-2h (ab DE)",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-10",
+    "bis": "2026-06-14"
+  },
+  "hotel": {
+    "hotel_name": "London City Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "Mai – September",
+  "highlights": [
+    "Big Ben",
+    "Buckingham Palace",
+    "Tower of London",
+    "London Eye",
+    "British Museum"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+  "kontinent": "Europa",
+  "zeitzone": "Europe/London",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 8,
+  "nachtleben_level": 9,
+  "geeignet_fuer": ["Kultur", "Städtereise", "Shopping", "Nachtleben"]
+},
+  {
+    "name": "Ronda",
+    "image": "images/ronda.webp",
+    "beschreibung_kurz": "Spektakuläre Kleinstadt auf einer Felsklippe mit atemberaubender Schlucht.",
+    "beschreibung_lang": "Ronda ist eine der beeindruckendsten Städte Andalusiens und liegt dramatisch auf einem Felsplateau, das durch die tiefe Schlucht El Tajo geteilt wird. Berühmt ist die Stadt für ihre historische Brücke Puente Nuevo, die Altstadt mit maurischen Einflüssen und ihre traditionelle Stierkampfarena. Ronda bietet eine einzigartige Mischung aus Natur, Geschichte und andalusischer Kultur.",
+    "preis": "890 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Spanien",
+    "transport": {
+      "typ": "Flug + Bus",
+      "flugzeit": "ca. 2.5h (bis Málaga) + 1.5h Transfer",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": false
+    },
+    "zeitraum": {
+      "von": "2026-05-15",
+      "bis": "2026-05-18"
+    },
+    "hotel": {
+      "hotel_name": "Ronda Panorama Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Altstadt",
+      "barrierefreundlich": false
+    },
+    "klima": "mediterran",
+    "beste_reisezeit": "April – Oktober",
+    "highlights": [
+      "Puente Nuevo",
+      "El Tajo Schlucht",
+      "Plaza de Toros",
+      "Alte Stadt Ronda",
+      "Arabische Bäder"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": false
+    },
+   
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Madrid",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 4,
+    "geeignet_fuer": ["Natur", "Kultur", "Romantik", "Fotografie"]
+  },
+  {
+    "name": "Guimarães",
+    "image": "images/guimaraes.webp",
+    "beschreibung_kurz": "Historische Geburtsstadt Portugals mit mittelalterlichem Charme.",
+    "beschreibung_lang": "Guimarães gilt als die Geburtsstadt Portugals und beeindruckt mit einer hervorragend erhaltenen Altstadt, die zum UNESCO-Weltkulturerbe gehört. Die Stadt bietet mittelalterliche Burgen, enge Gassen und lebendige Plätze. Sie ist ideal für Reisende, die Geschichte und authentische portugiesische Kultur erleben möchten.",
+    "preis": "780 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Portugal",
+    "transport": {
+      "typ": "Flug + Zug",
+      "flugzeit": "ca. 3h (bis Porto) + 1h Transfer",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": true
+    },
+    "zeitraum": {
+      "von": "2026-05-20",
+      "bis": "2026-05-23"
+    },
+    "hotel": {
+      "hotel_name": "Hotel Centro Histórico",
+      "sterne": 3,
+      "verpflegung": "Frühstück",
+      "lage": "Altstadt",
+      "barrierefreundlich": false
+    },
+    "klima": "ozeanisch",
+    "beste_reisezeit": "Mai – September",
+    "highlights": [
+      "Schloss Guimarães",
+      "Altstadt (UNESCO)",
+      "Palast der Herzöge von Braganza",
+      "Largo da Oliveira",
+      "Seilbahn zum Penha-Berg"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Lisbon",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 5,
+    "geeignet_fuer": ["Kultur", "Geschichte", "Städtereise"]
+  },
+  {
+    "name": "Bilbao",
+    "image": "images/bilbao.webp",
+    "beschreibung_kurz": "Moderne Kunststadt im Baskenland mit einzigartiger Architektur.",
+    "beschreibung_lang": "Bilbao hat sich von einer Industriestadt zu einer modernen Kulturmetropole entwickelt. Das ikonische Guggenheim-Museum prägt das Stadtbild und zieht Besucher aus aller Welt an. Die Stadt bietet zudem eine lebendige Altstadt mit baskischer Küche, Flussuferpromenaden und eine spannende Mischung aus Tradition und Moderne.",
+    "preis": "1050 Euro pro Person",
+    "dauer_tage": 5,
+    "land": "Spanien",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "ca. 2–2.5h (ab DE)",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": true
+    },
+    "zeitraum": {
+      "von": "2026-06-05",
+      "bis": "2026-06-09"
+    },
+    "hotel": {
+      "hotel_name": "Bilbao Riverside Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Stadtzentrum",
+      "barrierefreundlich": true
+    },
+    "klima": "ozeanisch",
+    "beste_reisezeit": "Mai – Oktober",
+    "highlights": [
+      "Guggenheim-Museum",
+      "Casco Viejo (Altstadt)",
+      "Ría de Bilbao",
+      "Zubizuri Brücke",
+      "Mercado de la Ribera"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Madrid",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Kultur", "Architektur", "Städtereise", "Kulinarik"]
+  },
+  {
+    "name": "Toronto",
+    "image": "images/toronto.webp",
+    "beschreibung_kurz": "Vielseitige Metropole am Ontariosee mit Skyline, Kultur und Natur.",
+    "beschreibung_lang": "Toronto ist die größte Stadt Kanadas und bekannt für ihre beeindruckende Skyline, kulturelle Vielfalt und Nähe zur Natur. Die Stadt bietet Sehenswürdigkeiten wie den CN Tower, lebendige Viertel, Museen und den nahegelegenen Ontariosee. Toronto ist eine moderne, internationale Stadt mit hoher Lebensqualität.",
+    "preis": "1650 Euro pro Person",
+    "dauer_tage": 7,
+    "land": "Kanada",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "ca. 8–9h (ab DE)",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": true
+    },
+    "zeitraum": {
+      "von": "2026-06-10",
+      "bis": "2026-06-16"
+    },
+    "hotel": {
+      "hotel_name": "Toronto Downtown Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Zentrum",
+      "barrierefreundlich": true
+    },
+    "klima": "kontinental",
+    "beste_reisezeit": "Mai – Oktober",
+    "highlights": [
+      "CN Tower",
+      "Royal Ontario Museum",
+      "Toronto Islands",
+      "Distillery District",
+      "Niagara Falls (Ausflug)"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+   
+    "kontinent": "Nordamerika",
+    "zeitzone": "America/Toronto",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 8,
+    "geeignet_fuer": ["Städtereise", "Kultur", "Natur", "Shopping"]
+  },
+   {
+    "name": "Boston",
+    "image": "images/boston.webp",
+    "beschreibung_kurz": "Historische US-Stadt mit moderner Skyline und akademischem Flair.",
+    "beschreibung_lang": "Boston ist eine der ältesten Städte der USA und verbindet historische Bedeutung mit moderner Urbanität. Die Stadt ist bekannt für ihre Universitäten wie Harvard und das MIT, den Freedom Trail sowie ihre lebendige Hafenregion. Besucher erleben hier amerikanische Geschichte, Kultur und eine junge, dynamische Atmosphäre.",
+    "preis": "1550 Euro pro Person",
+    "dauer_tage": 6,
+    "land": "USA",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "ca. 8h (ab DE)",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "ja"
+    },
+    "zeitraum": {
+      "von": "2026-06-12",
+      "bis": "2026-06-17"
+    },
+    "hotel": {
+      "hotel_name": "Boston Harbor Hotel",
+      "sterne": 5,
+      "verpflegung": "Frühstück",
+      "lage": "Zentrum",
+      "barrierefreundlich": true
+    },
+    "klima": "kontinental",
+    "beste_reisezeit": "Mai – Oktober",
+    "highlights": [
+      "Freedom Trail",
+      "Harvard University",
+      "Boston Common",
+      "Faneuil Hall",
+      "Boston Harbor"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+   
+    "kontinent": "Nordamerika",
+    "zeitzone": "America/New_York",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 8,
+    "geeignet_fuer": ["Kultur", "Geschichte", "Städtereise", "Bildung"]
+  },
+  {
+    "name": "Istanbul",
+    "image": "images/istanbul.webp",
+    "beschreibung_kurz": "Brücke zwischen Europa und Asien mit einzigartiger Geschichte.",
+    "beschreibung_lang": "Istanbul ist eine faszinierende Metropole, die Europa und Asien verbindet. Die Stadt bietet eine Mischung aus byzantinischer und osmanischer Geschichte, beeindruckenden Moscheen, lebhaften Basaren und einer dynamischen modernen Kultur. Der Bosporus prägt das Stadtbild und macht Istanbul zu einer der spannendsten Städte der Welt.",
+    "preis": "920 Euro pro Person",
+    "dauer_tage": 5,
+    "land": "Türkei",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "ca. 3h (ab DE)",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "eingeschränkt"
+    },
+    "zeitraum": {
+      "von": "2026-05-18",
+      "bis": "2026-05-22"
+    },
+    "hotel": {
+      "hotel_name": "Istanbul Old Town Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Altstadt",
+      "barrierefreundlich": "eingeschränkt"
+    },
+    "klima": "mediterran",
+    "beste_reisezeit": "April – Juni, September – Oktober",
+    "highlights": [
+      "Hagia Sophia",
+      "Blaue Moschee",
+      "Großer Basar",
+      "Topkapi-Palast",
+      "Bosporus-Fahrt"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": "teilweise"
+    },
+  
+    "kontinent": "Europa/Asien",
+    "zeitzone": "Europe/Istanbul",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 9,
+    "geeignet_fuer": ["Kultur", "Geschichte", "Shopping", "Nachtleben"]
+  },
+  {
+    "name": "Moskau",
+    "image": "images/moskau.webp",
+    "beschreibung_kurz": "Imposante Hauptstadt Russlands mit prächtigen Bauwerken.",
+    "beschreibung_lang": "Moskau ist eine der eindrucksvollsten Metropolen der Welt mit einer Mischung aus zaristischer Pracht und moderner Architektur. Der Rote Platz, der Kreml und die farbenfrohe Basilius-Kathedrale gehören zu den bekanntesten Sehenswürdigkeiten. Die Stadt bietet zudem ein lebendiges Kulturleben und weitläufige Boulevards.",
+    "preis": "1200 Euro pro Person",
+    "dauer_tage": 6,
+    "land": "Russland",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "ca. 3.5h (ab DE)",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "eingeschränkt"
+    },
+    "zeitraum": {
+      "von": "2026-06-02",
+      "bis": "2026-06-07"
+    },
+    "hotel": {
+      "hotel_name": "Moscow Grand Hotel",
+      "sterne": 5,
+      "verpflegung": "Frühstück",
+      "lage": "Zentrum",
+      "barrierefreundlich": true
+    },
+    "klima": "kontinental",
+    "beste_reisezeit": "Mai – September",
+    "highlights": [
+      "Roter Platz",
+      "Kreml",
+      "Basilius-Kathedrale",
+      "Bolshoi-Theater",
+      "Gorki-Park"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": "teilweise"
+    },
+    
+    "kontinent": "Europa/Asien",
+    "zeitzone": "Europe/Moscow",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 8,
+    "geeignet_fuer": ["Kultur", "Geschichte", "Städtereise"]
+  },
+  {
+    "name": "Dresden",
+    "image": "images/dresden.webp",
+    "beschreibung_kurz": "Barocke Kunststadt an der Elbe mit beeindruckender Altstadt.",
+    "beschreibung_lang": "Dresden wird oft als Elbflorenz bezeichnet und ist bekannt für seine prachtvolle barocke Architektur. Die Frauenkirche, der Zwinger und die Semperoper prägen das Stadtbild. Die Stadt bietet eine Mischung aus Kultur, Geschichte und moderner Lebensqualität direkt an der Elbe.",
+    "preis": "690 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Deutschland",
+    "transport": {
+      "typ": "Bahn",
+      "flugzeit": "n/a",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "ja"
+    },
+    "zeitraum": {
+      "von": "2026-05-25",
+      "bis": "2026-05-28"
+    },
+    "hotel": {
+      "hotel_name": "Dresden Elbhotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Altstadt",
+      "barrierefreundlich": true
+    },
+    "klima": "gemäßigt",
+    "beste_reisezeit": "Mai – September",
+    "highlights": [
+      "Frauenkirche",
+      "Zwinger",
+      "Semperoper",
+      "Brühlsche Terrasse",
+      "Altstadt Dresden"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+   
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Berlin",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Kultur", "Geschichte", "Städtereise"]
+  }
+  ,
+  {
+    "name": "Kairo",
+    "image": "images/kairo.webp",
+    "beschreibung_kurz": "Lebendige Hauptstadt Ägyptens mit antiken Weltwundern und Nil-Flair.",
+    "beschreibung_lang": "Kairo ist die größte Stadt Afrikas und eine faszinierende Metropole voller Geschichte und Kontraste. Direkt vor den Toren der Stadt befinden sich die berühmten Pyramiden von Gizeh und die Sphinx. Im Zentrum treffen moderne Hochhäuser auf traditionelle Basare und das lebendige Leben am Nil. Kairo bietet eine einzigartige Mischung aus Antike und Großstadt.",
+    "preis": "1100 Euro pro Person",
+    "dauer_tage": 6,
+    "land": "Ägypten",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "ca. 4–5h (ab DE)",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "eingeschränkt"
+    },
+    "zeitraum": {
+      "von": "2026-06-05",
+      "bis": "2026-06-10"
+    },
+    "hotel": {
+      "hotel_name": "Nile View Hotel Kairo",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Zentrum",
+      "barrierefreundlich": "eingeschränkt"
+    },
+    "klima": "wüstenartig",
+    "beste_reisezeit": "Oktober – April",
+    "highlights": [
+      "Pyramiden von Gizeh",
+      "Sphinx",
+      "Ägyptisches Museum",
+      "Khan el-Khalili Basar",
+      "Nil-Ufer"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": "teilweise"
+    },
+   
+    "kontinent": "Afrika",
+    "zeitzone": "Africa/Cairo",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Kultur", "Geschichte", "Abenteuer", "Städtereise"]
+  },
+  {
+    "name": "Alexandria",
+    "image": "images/alexandria.webp",
+    "beschreibung_kurz": "Mediterrane Hafenstadt mit antiker Geschichte und Küstencharme.",
+    "beschreibung_lang": "Alexandria liegt an der Mittelmeerküste Ägyptens und war einst eines der wichtigsten kulturellen Zentren der Antike. Heute verbindet die Stadt historische Sehenswürdigkeiten mit entspannter Küstenatmosphäre. Besucher genießen die Corniche, alte Bibliotheken und eine Mischung aus europäischem und arabischem Einfluss.",
+    "preis": "1050 Euro pro Person",
+    "dauer_tage": 5,
+    "land": "Ägypten",
+    "transport": {
+      "typ": "Flug + Zug",
+      "flugzeit": "ca. 4–5h (bis Kairo) + 2h Transfer",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "eingeschränkt"
+    },
+    "zeitraum": {
+      "von": "2026-06-11",
+      "bis": "2026-06-15"
+    },
+    "hotel": {
+      "hotel_name": "Alexandria Seaside Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Küste",
+      "barrierefreundlich": "teilweise"
+    },
+    "klima": "mediterran",
+    "beste_reisezeit": "April – Oktober",
+    "highlights": [
+      "Bibliotheca Alexandrina",
+      "Qaitbay-Zitadelle",
+      "Corniche",
+      "Kom el-Shoqafa Katakomben",
+      "Montaza Palast"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": "teilweise"
+    },
+    
+    "kontinent": "Afrika",
+    "zeitzone": "Africa/Cairo",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Kultur", "Strand", "Geschichte", "Entspannung"]
+  },
+  {
+    "name": "São Paulo",
+    "image": "images/sao_paulo.webp",
+    "beschreibung_kurz": "Gigantische Metropole Brasiliens mit Kultur, Food und Skyline.",
+    "beschreibung_lang": "São Paulo ist die größte Stadt Südamerikas und ein wirtschaftliches sowie kulturelles Zentrum Brasiliens. Die Stadt ist bekannt für ihre beeindruckende Skyline, vielfältige Gastronomie, Museen und lebendige Viertel wie Vila Madalena. São Paulo ist dynamisch, multikulturell und voller Energie.",
+    "preis": "1450 Euro pro Person",
+    "dauer_tage": 7,
+    "land": "Brasilien",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "ca. 12–13h (ab DE)",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": true
+    },
+    "zeitraum": {
+      "von": "2026-06-18",
+      "bis": "2026-06-24"
+    },
+    "hotel": {
+      "hotel_name": "São Paulo Central Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Zentrum",
+      "barrierefreundlich": true
+    },
+    "klima": "subtropisch",
+    "beste_reisezeit": "April – September",
+    "highlights": [
+      "Avenida Paulista",
+      "Ibirapuera Park",
+      "Museu de Arte de São Paulo",
+      "Vila Madalena",
+      "Mercado Municipal"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+   
+    "kontinent": "Südamerika",
+    "zeitzone": "America/Sao_Paulo",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 6,
+    "nachtleben_level": 9,
+    "geeignet_fuer": ["Städtereise", "Kulinarik", "Kultur", "Nachtleben"]
+  },
+  {
+    "name": "Hamburg",
+    "image": "images/hamburg.webp",
+    "beschreibung_kurz": "Maritime Hafenstadt mit Elbe, moderner Architektur und lebendigem Kulturleben.",
+    "beschreibung_lang": "Hamburg ist eine der spannendsten Städte Deutschlands und bekannt für ihren riesigen Hafen, die Elbphilharmonie und die historische Speicherstadt. Die Stadt verbindet maritimes Flair mit moderner Architektur und einem vielfältigen Kultur- und Nachtleben. Spaziergänge an der Elbe, Hafenrundfahrten und das Schanzenviertel machen Hamburg besonders abwechslungsreich.",
+    "preis": "820 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Deutschland",
+    "transport": {
+      "typ": "Bahn",
+      "flugzeit": "n/a",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "ja"
+    },
+    "zeitraum": {
+      "von": "2026-05-20",
+      "bis": "2026-05-23"
+    },
+    "hotel": {
+      "hotel_name": "Hamburg Hafen Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Zentrum",
+      "barrierefreundlich": true
+    },
+    "klima": "gemäßigt",
+    "beste_reisezeit": "Mai – September",
+    "highlights": [
+      "Elbphilharmonie",
+      "Speicherstadt",
+      "Hafen Hamburg",
+      "Reeperbahn",
+      "Landungsbrücken"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Berlin",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 9,
+    "geeignet_fuer": ["Kultur", "Städtereise", "Nachtleben", "Wasserfront"]
+  },
+  {
+    "name": "Bremen",
+    "image": "images/bremen.webp",
+    "beschreibung_kurz": "Historische Hansestadt mit mittelalterlichem Charme und Märchenflair.",
+    "beschreibung_lang": "Bremen ist eine traditionsreiche Hansestadt an der Weser und bekannt für ihre Altstadt, das UNESCO-Welterbe Rathaus und den Roland sowie die Bremer Stadtmusikanten. Die Stadt bietet eine gemütliche Mischung aus Geschichte, Kultur und modernen Vierteln wie dem Schnoor und der Schlachte.",
+    "preis": "760 Euro pro Person",
+    "dauer_tage": 3,
+    "land": "Deutschland",
+    "transport": {
+      "typ": "Bahn",
+      "flugzeit": "n/a",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "ja"
+    },
+    "zeitraum": {
+      "von": "2026-05-24",
+      "bis": "2026-05-26"
+    },
+    "hotel": {
+      "hotel_name": "Bremen City Hotel",
+      "sterne": 3,
+      "verpflegung": "Frühstück",
+      "lage": "Altstadt",
+      "barrierefreundlich": true
+    },
+    "klima": "gemäßigt",
+    "beste_reisezeit": "Mai – September",
+    "highlights": [
+      "Bremer Stadtmusikanten",
+      "Marktplatz Bremen",
+      "Rathaus & Roland",
+      "Schnoorviertel",
+      "Schlachte Uferpromenade"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Berlin",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Kultur", "Geschichte", "Städtereise", "Entspannung"]
+  },
+  {
+    "name": "Brügge",
+    "image": "images/brugge.webp",
+    "beschreibung_kurz": "Mittelalterliche Märchenstadt mit Kanälen, Kopfsteinpflaster und romantischem Flair.",
+    "beschreibung_lang": "Brügge ist eine der schönsten und am besten erhaltenen mittelalterlichen Städte Europas. Die Altstadt gehört zum UNESCO-Weltkulturerbe und ist geprägt von Kanälen, historischen Giebelhäusern und malerischen Plätzen. Die Stadt wirkt wie ein lebendiges Freilichtmuseum und ist besonders für romantische Städtereisen und Genießer geeignet.",
+    "preis": "850 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Belgien",
+    "transport": {
+      "typ": "Bahn",
+      "flugzeit": "ca. 1h (ab DE) + Zugtransfer",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "eingeschränkt"
+    },
+    "zeitraum": {
+      "von": "2026-05-28",
+      "bis": "2026-05-31"
+    },
+    "hotel": {
+      "hotel_name": "Brügge Canal Boutique Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Altstadt",
+      "barrierefreundlich": "eingeschränkt"
+    },
+    "klima": "gemäßigt-maritim",
+    "beste_reisezeit": "April – September",
+    "highlights": [
+      "Marktplatz Brügge",
+      "Belfried von Brügge",
+      "Grachte (Bootsfahrt)",
+      "Basilika des Heiligen Blutes",
+      "Minnewater (Liebessee)"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": "teilweise"
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Brussels",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 10,
+    "nachtleben_level": 5,
+    "geeignet_fuer": ["Romantik", "Kultur", "Städtereise", "Fotografie"]
+  },
+   {
+    "name": "Nürnberg",
+    "image": "images/nuernberg.webp",
+    "beschreibung_kurz": "Historische fränkische Stadt mit Kaiserburg, Altstadt und lebendiger Kultur.",
+    "beschreibung_lang": "Nürnberg ist eine traditionsreiche Stadt in Bayern, bekannt für ihre gut erhaltene Altstadt, die imposante Kaiserburg und ihre Rolle in der europäischen Geschichte. Heute bietet die Stadt eine Mischung aus mittelalterlichem Flair, Museen, kulinarischen Spezialitäten wie Lebkuchen und einem modernen Stadtleben.",
+    "preis": "790 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Deutschland",
+    "transport": {
+      "typ": "Bahn",
+      "flugzeit": "n/a",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "ja"
+    },
+    "zeitraum": {
+      "von": "2026-05-18",
+      "bis": "2026-05-21"
+    },
+    "hotel": {
+      "hotel_name": "Nürnberg Altstadt Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Zentrum",
+      "barrierefreundlich": true
+    },
+    "klima": "gemäßigt",
+    "beste_reisezeit": "Mai – September",
+    "highlights": [
+      "Kaiserburg Nürnberg",
+      "Altstadt",
+      "Hauptmarkt",
+      "Dokumentationszentrum Reichsparteitagsgelände",
+      "Albrecht-Dürer-Haus"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+  
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Berlin",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Kultur", "Geschichte", "Städtereise"]
+  },
+  {
+    "name": "Verona",
+    "image": "images/verona.webp",
+    "beschreibung_kurz": "Romantische Stadt von Romeo und Julia mit Arena und italienischem Flair.",
+    "beschreibung_lang": "Verona ist eine der romantischsten Städte Italiens und weltbekannt durch Shakespeares Romeo und Julia. Die Stadt beeindruckt mit ihrer römischen Arena, der historischen Altstadt und eleganten Plätzen entlang der Etsch. Verona verbindet Kultur, Geschichte und italienische Lebensart.",
+    "preis": "980 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Italien",
+    "transport": {
+      "typ": "Flug + Bahn",
+      "flugzeit": "ca. 1.5h (ab DE)",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "eingeschränkt"
+    },
+    "zeitraum": {
+      "von": "2026-06-01",
+      "bis": "2026-06-05"
+    },
+    "hotel": {
+      "hotel_name": "Verona Centro Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Altstadt",
+      "barrierefreundlich": "teilweise"
+    },
+    "klima": "mediterran",
+    "beste_reisezeit": "April – Oktober",
+    "highlights": [
+      "Arena di Verona",
+      "Casa di Giulietta",
+      "Piazza delle Erbe",
+      "Castelvecchio",
+      "Etsch-Ufer"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": "teilweise"
+    },
+   
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Rome",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 10,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Romantik", "Kultur", "Städtereise"]
+  },
+  {
+    "name": "Lindau",
+    "image": "images/lindau.webp",
+    "beschreibung_kurz": "Idyllische Inselstadt am Bodensee mit Alpenblick und Altstadtflair.",
+    "beschreibung_lang": "Lindau liegt direkt im Bodensee und begeistert mit seiner einzigartigen Lage, einer historischen Insel-Altstadt und traumhaftem Alpenpanorama. Die Stadt ist ideal für entspannte Reisen, Spaziergänge am Wasser und Naturerlebnisse.",
+    "preis": "760 Euro pro Person",
+    "dauer_tage": 3,
+    "land": "Deutschland",
+    "transport": {
+      "typ": "Bahn",
+      "flugzeit": "n/a",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "ja"
+    },
+    "zeitraum": {
+      "von": "2026-05-22",
+      "bis": "2026-05-24"
+    },
+    "hotel": {
+      "hotel_name": "Lindau Seehotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Seelage",
+      "barrierefreundlich": true
+    },
+    "klima": "gemäßigt",
+    "beste_reisezeit": "Mai – September",
+    "highlights": [
+      "Lindauer Hafen",
+      "Altstadtinsel",
+      "Leuchtturm Lindau",
+      "Bodensee Promenade",
+      "Alpenblick"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Berlin",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 4,
+    "geeignet_fuer": ["Natur", "Romantik", "Entspannung"]
+  },
+  {
+    "name": "Konstanz",
+    "image": "images/konstanz.webp",
+    "beschreibung_kurz": "Lebendige Stadt am Bodensee mit Altstadt, Wasser und Kultur.",
+    "beschreibung_lang": "Konstanz ist die größte Stadt am Bodensee und verbindet Geschichte mit moderner Lebensart. Die Stadt bietet eine schöne Altstadt, eine lebendige Uferpromenade und zahlreiche Freizeitmöglichkeiten am Wasser. Durch die Nähe zur Schweiz ist sie auch international geprägt.",
+    "preis": "820 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Deutschland",
+    "transport": {
+      "typ": "Bahn",
+      "flugzeit": "n/a",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "ja"
+    },
+    "zeitraum": {
+      "von": "2026-05-25",
+      "bis": "2026-05-28"
+    },
+    "hotel": {
+      "hotel_name": "Konstanz Seehotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Zentrum",
+      "barrierefreundlich": true
+    },
+    "klima": "gemäßigt",
+    "beste_reisezeit": "Mai – September",
+    "highlights": [
+      "Altstadt Konstanz",
+      "Hafen Konstanz",
+      "Insel Mainau (Ausflug)",
+      "Seestraße",
+      "Konstanzer Münster"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Berlin",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Natur", "Städtereise", "Entspannung"]
+  },
+  {
+    "name": "St. Gallen",
+    "image": "images/st_gallen.webp",
+    "beschreibung_kurz": "Kulturelle Schweizer Stadt mit barocker Stiftsbibliothek und Alpennähe.",
+    "beschreibung_lang": "St. Gallen ist bekannt für seine barocke Stiftsbibliothek, die zum UNESCO-Weltkulturerbe gehört, sowie für seine Lage zwischen Bodensee und Alpen. Die Stadt verbindet Geschichte, Kultur und Natur auf kompakte Weise.",
+    "preis": "1050 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Schweiz",
+    "transport": {
+      "typ": "Bahn",
+      "flugzeit": "n/a",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "ja"
+    },
+    "zeitraum": {
+      "von": "2026-05-29",
+      "bis": "2026-06-01"
+    },
+    "hotel": {
+      "hotel_name": "St. Gallen City Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Zentrum",
+      "barrierefreundlich": true
+    },
+    "klima": "gemäßigt",
+    "beste_reisezeit": "Mai – September",
+    "highlights": [
+      "Stiftsbibliothek",
+      "Altstadt St. Gallen",
+      "Drei Weieren",
+      "Textilmuseum",
+      "Appenzeller Ausflug"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Zurich",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 5,
+    "geeignet_fuer": ["Kultur", "Natur", "Städtereise"]
+  },
+  {
+    "name": "Basel",
+    "image": "images/basel.webp",
+    "beschreibung_kurz": "Dreiländereck-Stadt mit Kunst, Rhein und moderner Architektur.",
+    "beschreibung_lang": "Basel liegt am Rhein im Dreiländereck Schweiz–Deutschland–Frankreich und ist eine der kulturell reichsten Städte Europas. Die Stadt ist bekannt für ihre Museen, moderne Architektur und die schöne Altstadt. Basel verbindet internationale Atmosphäre mit hoher Lebensqualität.",
+    "preis": "1150 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Schweiz",
+    "transport": {
+      "typ": "Bahn",
+      "flugzeit": "n/a",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "ja"
+    },
+    "zeitraum": {
+      "von": "2026-06-02",
+      "bis": "2026-06-05"
+    },
+    "hotel": {
+      "hotel_name": "Basel Riverside Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Rheinlage",
+      "barrierefreundlich": true
+    },
+    "klima": "gemäßigt",
+    "beste_reisezeit": "Mai – September",
+    "highlights": [
+      "Basler Altstadt",
+      "Rheinpromenade",
+      "Kunstmuseum Basel",
+      "Tinguely Museum",
+      "Basler Münster"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Zurich",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Kultur", "Kunst", "Städtereise"]
+  },
+  {
+    "name": "Genf",
+    "image": "images/genf.webp",
+    "beschreibung_kurz": "Internationale Stadt am Genfersee mit UNO-Atmosphäre und Alpenblick.",
+    "beschreibung_lang": "Genf ist eine weltoffene Stadt am Genfersee und Sitz zahlreicher internationaler Organisationen wie der UNO. Die Stadt bietet eine elegante Uferpromenade, den Jet d’Eau und eine beeindruckende Kulisse mit Alpenblick. Genf ist ruhig, modern und international geprägt.",
+    "preis": "1250 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Schweiz",
+    "transport": {
+      "typ": "Bahn",
+      "flugzeit": "ca. 1h (ab DE)",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "ja"
+    },
+    "zeitraum": {
+      "von": "2026-06-06",
+      "bis": "2026-06-09"
+    },
+    "hotel": {
+      "hotel_name": "Genf Lake Hotel",
+      "sterne": 5,
+      "verpflegung": "Frühstück",
+      "lage": "Seelage",
+      "barrierefreundlich": true
+    },
+    "klima": "gemäßigt",
+    "beste_reisezeit": "Mai – September",
+    "highlights": [
+      "Jet d’Eau",
+      "Genfersee",
+      "UNO Gebäude",
+      "Altstadt Genf",
+      "Blumenuhr"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+   
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Zurich",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Kultur", "Natur", "Städtereise", "Entspannung"]
+  },
+  {
+    "name": "Bamberg",
+    "image": "images/bamberg.webp",
+    "beschreibung_kurz": "Fränkische UNESCO-Altstadt mit Fachwerk, Bierkultur und Flusslandschaft.",
+    "beschreibung_lang": "Bamberg ist eine der schönsten historischen Städte Deutschlands und komplett als UNESCO-Weltkulturerbe ausgezeichnet. Die Stadt ist berühmt für ihre Altstadt mit Fachwerkhäusern, das Alte Rathaus auf einer Insel und ihre traditionelle Bierkultur.",
+    "preis": "740 Euro pro Person",
+    "dauer_tage": 3,
+    "land": "Deutschland",
+    "transport": {
+      "typ": "Bahn",
+      "flugzeit": "n/a",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "ja"
+    },
+    "zeitraum": {
+      "von": "2026-05-19",
+      "bis": "2026-05-21"
+    },
+    "hotel": {
+      "hotel_name": "Bamberg Altstadt Hotel",
+      "sterne": 3,
+      "verpflegung": "Frühstück",
+      "lage": "Altstadt",
+      "barrierefreundlich": true
+    },
+    "klima": "gemäßigt",
+    "beste_reisezeit": "Mai – September",
+    "highlights": [
+      "Altes Rathaus Bamberg",
+      "Klein Venedig",
+      "Bamberger Dom",
+      "Altenburg",
+      "Altstadt UNESCO"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Berlin",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 5,
+    "geeignet_fuer": ["Kultur", "Geschichte", "Städtereise"]
+  },{
+  "name": "Rom",
+  "image": "images/rom.webp",
+  "beschreibung_kurz": "Antike Stadt mit Geschichte und italienischem Flair.",
+  "beschreibung_lang": "Rom bietet günstige Unterkünfte außerhalb des Zentrums, aber volle Kultur mit Kolosseum, Vatikan und italienischem Essen.",
+  "preis": "1550 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Italien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-18",
+    "bis": "2026-06-23"
+  },
+  "hotel": {
+    "hotel_name": "Rome Budget Stay Hotel",
+    "sterne": 3,
+    "verpflegung": "Frühstück",
+    "lage": "Außerhalb Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "April – Juni",
+  "highlights": [
+    "Kolosseum",
+    "Vatikan",
+    "Trevi-Brunnen",
+    "Forum Romanum"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Rome",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": false,
+  "romantik_score": 8,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Kultur", "Budget", "Städtereise"]
+},
+   {
+    "name": "Würzburg",
+    "image": "images/wuerzburg.webp",
+    "beschreibung_kurz": "Barocke Residenzstadt am Main mit Weinbergen und UNESCO-Flair.",
+    "beschreibung_lang": "Würzburg liegt malerisch am Main und ist bekannt für seine prachtvolle barocke Residenz, die zum UNESCO-Weltkulturerbe gehört. Die Stadt ist außerdem ein Zentrum des fränkischen Weins und bietet eine lebendige Altstadt mit Brücken, Festungen und herrlichen Ausblicken über die Weinberge.",
+    "preis": "780 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Deutschland",
+    "transport": {
+      "typ": "Bahn",
+      "flugzeit": "n/a",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "ja"
+    },
+    "zeitraum": {
+      "von": "2026-05-22",
+      "bis": "2026-05-25"
+    },
+    "hotel": {
+      "hotel_name": "Würzburg Mainufer Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Zentrum",
+      "barrierefreundlich": true
+    },
+    "klima": "gemäßigt",
+    "beste_reisezeit": "Mai – September",
+    "highlights": [
+      "Würzburger Residenz",
+      "Festung Marienberg",
+      "Alte Mainbrücke",
+      "Dom St. Kilian",
+      "Weinberge am Main"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Berlin",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Kultur", "Wein", "Städtereise", "Geschichte"]
+  },
+  {
+    "name": "Regensburg",
+    "image": "images/regensburg.webp",
+    "beschreibung_kurz": "Mittelalterliche Donau-Stadt mit Steinbrücke und UNESCO-Altstadt.",
+    "beschreibung_lang": "Regensburg zählt zu den am besten erhaltenen mittelalterlichen Städten Deutschlands. Die Altstadt ist UNESCO-Weltkulturerbe und geprägt von engen Gassen, historischen Patrizierhäusern und der berühmten Steinernen Brücke über die Donau. Die Stadt verbindet Geschichte mit jungem Studentenleben.",
+    "preis": "800 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Deutschland",
+    "transport": {
+      "typ": "Bahn",
+      "flugzeit": "n/a",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "ja"
+    },
+    "zeitraum": {
+      "von": "2026-05-26",
+      "bis": "2026-05-29"
+    },
+    "hotel": {
+      "hotel_name": "Regensburg Donau Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Altstadt",
+      "barrierefreundlich": true
+    },
+    "klima": "gemäßigt",
+    "beste_reisezeit": "Mai – September",
+    "highlights": [
+      "Steinerne Brücke",
+      "Regensburger Dom",
+      "Alte Wurstkuchl",
+      "Altstadt UNESCO",
+      "Schloss Thurn und Taxis"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+  
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Berlin",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Kultur", "Geschichte", "Städtereise", "Donau"]
+  },
+  
+  {
+    "name": "Trier",
+    "image": "images/trier.webp",
+    "beschreibung_kurz": "Älteste Stadt Deutschlands mit römischen Bauwerken und Mosel-Flair.",
+    "beschreibung_lang": "Trier gilt als die älteste Stadt Deutschlands und beeindruckt mit einzigartigen römischen Bauwerken wie der Porta Nigra. Die Stadt liegt an der Mosel und verbindet antike Geschichte mit gemütlicher Altstadtatmosphäre, Weinbergen und lebendiger Kultur.",
+    "preis": "760 Euro pro Person",
+    "dauer_tage": 3,
+    "land": "Deutschland",
+    "transport": {
+      "typ": "Bahn",
+      "flugzeit": "n/a",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "ja"
+    },
+    "zeitraum": {
+      "von": "2026-05-18",
+      "bis": "2026-05-20"
+    },
+    "hotel": {
+      "hotel_name": "Trier Mosel Hotel",
+      "sterne": 3,
+      "verpflegung": "Frühstück",
+      "lage": "Zentrum",
+      "barrierefreundlich": true
+    },
+    "klima": "gemäßigt",
+    "beste_reisezeit": "Mai – September",
+    "highlights": [
+      "Porta Nigra",
+      "Kaiserthermen",
+      "Trierer Dom",
+      "Amphitheater",
+      "Moselufer"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": true
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Berlin",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 5,
+    "geeignet_fuer": ["Kultur", "Geschichte", "Städtereise", "Wein"]
+  },
+  {
+    "name": "Córdoba",
+    "image": "images/cordoba.webp",
+    "beschreibung_kurz": "Andalusische Stadt mit Mezquita, arabischem Erbe und engen Altstadtgassen.",
+    "beschreibung_lang": "Córdoba ist eine der geschichtsträchtigsten Städte Spaniens und berühmt für die Mezquita, eine einzigartige Mischung aus Moschee und Kathedrale. Die Altstadt ist ein Labyrinth aus weißen Häusern, Innenhöfen und blühenden Patios.",
+    "preis": "920 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Spanien",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "ca. 3h (ab DE bis Málaga/Sevilla)",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "eingeschränkt"
+    },
+    "zeitraum": {
+      "von": "2026-06-01",
+      "bis": "2026-06-04"
+    },
+    "hotel": {
+      "hotel_name": "Córdoba Patio Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Altstadt",
+      "barrierefreundlich": "teilweise"
+    },
+    "klima": "mediterran-heiß",
+    "beste_reisezeit": "April – Juni, September – Oktober",
+    "highlights": [
+      "Mezquita-Catedral",
+      "Römische Brücke",
+      "Jüdisches Viertel",
+      "Alcázar de los Reyes Cristianos",
+      "Patios von Córdoba"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": "teilweise"
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Madrid",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Kultur", "Geschichte", "Romantik", "Städtereise"]
+  },{
+  "name": "Los Angeles",
+  "image": "images/los_angeles.webp",
+  "beschreibung_kurz": "Kalifornische Metropole mit Filmkultur, Stränden und Lifestyle.",
+  "beschreibung_lang": "Los Angeles steht für Glamour, Entertainment und Vielfalt. Neben berühmten Filmstudios erwarten dich weite Strände, trendige Viertel und ein einzigartiger Mix aus Kulturen, der die Stadt besonders macht.",
+  "preis": "2100 Euro pro Person",
+  "dauer_tage": 8,
+  "land": "USA",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "11-12h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-07-01",
+    "bis": "2026-07-09"
+  },
+  "hotel": {
+    "hotel_name": "Pacific Star Resort LA",
+    "sterne": 5,
+    "verpflegung": "All Inclusive",
+    "lage": "Santa Monica",
+    "barrierefreundlich": true
+  },
+  "klima": "warm-trocken",
+  "beste_reisezeit": "März – Oktober",
+  "highlights": ["Hollywood Sign", "Walk of Fame", "Santa Monica Pier", "Beverly Hills"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+  "kontinent": "Nordamerika",
+  "zeitzone": "America/Los_Angeles",
+  "pool": true,
+  "wifi": false,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 7,
+  "nachtleben_level": 9,
+  "geeignet_fuer": ["Strand", "City", "Hollywood"]
+},
+ {
+  "name": "Pisa",
+  "image": "images/pisa.webp",
+  "beschreibung_kurz": "Historische Stadt in der Toskana, berühmt für ihren schiefen Turm und mittelalterliche Architektur.",
+  "beschreibung_lang": "Pisa ist eine traditionsreiche Stadt in der Toskana, die vor allem durch den Schiefen Turm weltbekannt ist. Neben dem berühmten Piazza dei Miracoli bietet die Stadt eine Mischung aus studentischem Leben, historischen Bauwerken und entspannter toskanischer Atmosphäre am Arno.",
+  "preis": "920 Euro pro Person",
+  "dauer_tage": 3,
+  "land": "Italien",
+  "transport": {
+    "typ": "Flug + Bahn",
+    "flugzeit": "ca. 1.5h (ab DE)",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": "eingeschränkt"
+  },
+  "zeitraum": {
+    "von": "2026-06-10",
+    "bis": "2026-06-12"
+  },
+  "hotel": {
+    "hotel_name": "Hotel Pisa Centro",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": "teilweise"
+  },
+  "klima": "mediterran",
+  "beste_reisezeit": "April – Oktober",
+  "highlights": [
+    "Schiefer Turm von Pisa",
+    "Piazza dei Miracoli",
+    "Dom von Pisa",
+    "Camposanto Monumentale",
+    "Ufer des Arno"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "teilweise"
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Rome",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 7,
+  "nachtleben_level": 5,
+  "geeignet_fuer": ["Kultur", "Städtereise", "Fotografie"]
+},{
+  "name": "Sevilla",
+  "image": "images/sevilla.webp",
+  "beschreibung_kurz": "Lebendige Metropole mit südspanischem Flair und beeindruckender Architektur.",
+  "beschreibung_lang": "Sevilla vereint jahrhundertealte Baukunst mit moderner Lebensfreude. Prunkvolle Paläste, historische Plätze und traditionelle Flamenco-Kultur machen die Stadt zu einem einzigartigen Reiseziel in Andalusien.",
+  "preis": "1450 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "Spanien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "3h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-04-10",
+    "bis": "2026-04-16"
+  },
+  "hotel": {
+    "hotel_name": "Casa Andaluz Premium Hotel",
+    "sterne": 5,
+    "verpflegung": "Halbpension",
+    "lage": "Altstadt",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "März – Mai",
+  "highlights": ["Alcázar", "Kathedrale von Sevilla", "Plaza de España", "Altstadt"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Madrid",
+  "pool": false,
+  "wifi": false,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 8,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Kultur", "Städtereise", "Sonne"]
+},
+  {
+    "name": "Genua",
+    "image": "images/genua.webp",
+    "beschreibung_kurz": "Historischer Hafen Italiens mit verwinkelter Altstadt und Meerblick.",
+    "beschreibung_lang": "Genua ist eine traditionsreiche Hafenstadt mit einer der größten Altstädte Europas. Enge Gassen, prächtige Paläste und der alte Hafen prägen das Stadtbild. Die Stadt verbindet maritimes Flair mit italienischer Geschichte.",
+    "preis": "990 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Italien",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "ca. 1.5h (ab DE)",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "eingeschränkt"
+    },
+    "zeitraum": {
+      "von": "2026-06-09",
+      "bis": "2026-06-12"
+    },
+    "hotel": {
+      "hotel_name": "Genua Porto Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Hafen",
+      "barrierefreundlich": "teilweise"
+    },
+    "klima": "mediterran",
+    "beste_reisezeit": "April – Oktober",
+    "highlights": [
+      "Alter Hafen",
+      "Aquarium Genua",
+      "Via Garibaldi",
+      "Altstadt Genua",
+      "Lanterna Leuchtturm"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": "teilweise"
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Rome",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 7,
+    "geeignet_fuer": ["Kultur", "Meer", "Städtereise"]
+  },
+  {
+    "name": "Gibraltar",
+    "image": "images/gibraltar.webp",
+    "beschreibung_kurz": "Britisches Territorium mit Affenfelsen und spektakulären Ausblicken.",
+    "beschreibung_lang": "Gibraltar ist ein einzigartiges britisches Überseegebiet an der Südspitze Spaniens. Der berühmte Felsen von Gibraltar bietet spektakuläre Ausblicke bis nach Afrika. Die Stadt verbindet britische und mediterrane Kultur auf engem Raum.",
+    "preis": "1050 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Gibraltar (UK)",
+    "transport": {
+      "typ": "Flug + Transfer",
+      "flugzeit": "ca. 3h (bis Málaga) + 2h",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "eingeschränkt"
+    },
+    "zeitraum": {
+      "von": "2026-06-13",
+      "bis": "2026-06-16"
+    },
+    "hotel": {
+      "hotel_name": "Rock View Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Zentrum",
+      "barrierefreundlich": "teilweise"
+    },
+    "klima": "mediterran",
+    "beste_reisezeit": "April – Oktober",
+    "highlights": [
+      "Affenfelsen",
+      "St. Michael’s Cave",
+      "Main Street Gibraltar",
+      "Europa Point",
+      "Seilbahn zum Rock"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": "teilweise"
+    },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Gibraltar",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 7,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Natur", "Kultur", "Abenteuer"]
+  },
+  {
+    "name": "Montenegro",
+    "image": "images/montenegro.webp",
+    "beschreibung_kurz": "Adriatisches Reiseziel mit Bergen, Küstenstädten und türkisfarbenem Meer.",
+    "beschreibung_lang": "Montenegro ist ein kleines, aber landschaftlich extrem vielfältiges Land an der Adria. Es bietet dramatische Berglandschaften, mittelalterliche Küstenstädte wie Kotor und kristallklares Wasser. Ideal für Natur, Strand und Roadtrips.",
+    "preis": "1100 Euro pro Person",
+    "dauer_tage": 6,
+    "land": "Montenegro",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "ca. 2–2.5h (ab DE)",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "eingeschränkt"
+    },
+    "zeitraum": {
+      "von": "2026-06-17",
+      "bis": "2026-06-22"
+    },
+    "hotel": {
+      "hotel_name": "Adriatic View Resort",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Küste",
+      "barrierefreundlich": "teilweise"
+    },
+    "klima": "mediterran",
+    "beste_reisezeit": "Mai – September",
+    "highlights": [
+      "Bucht von Kotor",
+      "Altstadt Kotor",
+      "Sveti Stefan",
+      "Durmitor Nationalpark",
+      "Adriaküste"
+    ],
+    "barrierefreiheit": {
+      "rollstuhlzugang": "teilweise"
+    },
+   
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Podgorica",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 9,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Natur", "Strand", "Abenteuer", "Roadtrip"]
+  },
+ 
+ 
+
+{
+  "name": "Barcelona",
+  "image": "images/barcelona.webp",
+  "beschreibung_kurz": "Elegante Städtereise mit Luxus, Meerblick und Architektur.",
+  "beschreibung_lang": "Barcelona bietet eine perfekte Mischung aus luxuriösen Hotels, beeindruckender Architektur und entspannten Stunden am Mittelmeer mit exklusiven Restaurants und Rooftop-Bars.",
+  "preis": "1850 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "Spanien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2.5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-07-01",
+    "bis": "2026-07-07"
+  },
+  "hotel": {
+    "hotel_name": "Grand Marina Luxury Hotel",
+    "sterne": 5,
+    "verpflegung": "Frühstück & Abendessen",
+    "lage": "Hafen",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["Sagrada Família", "Port Vell", "Casa Batlló", "Rooftop Bars"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Madrid",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": false,
+  "romantik_score": 10,
+  "nachtleben_level": 8,
+  "geeignet_fuer": ["Luxus", "Romantik", "Architektur"]
+},
+
+
+
+
+{
+  "name": "Pisa",
+  "image": "images/pisa.webp",
+  "beschreibung_kurz": "Historische Stadt in der Toskana mit jungem, lebendigem Stadtleben und dem Schiefen Turm.",
+  "beschreibung_lang": "Pisa ist eine lebendige Universitätsstadt in der Toskana, die neben dem weltberühmten Schiefen Turm auch ein entspanntes, studentisches Flair bietet. Abseits der Touristenmassen findet man kleine Cafés, günstige Restaurants und ein authentisches italienisches Stadtleben am Arno.",
+  "preis": "640 Euro pro Person",
+  "dauer_tage": 3,
+  "land": "Italien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "ca. 1.5h (ab Deutschland)",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": "eingeschränkt"
+  },
+  "zeitraum": {
+    "von": "2026-06-12",
+    "bis": "2026-06-14"
+  },
+  "hotel": {
+    "hotel_name": "Hotel Università Pisa",
+    "sterne": 2,
+    "verpflegung": "nur Frühstück",
+    "lage": "studentisches Viertel",
+    "barrierefreundlich": false
+  },
+  "klima": "mediterran",
+  "beste_reisezeit": "April – Oktober",
+  "highlights": [
+    "Schiefer Turm von Pisa",
+    "Piazza dei Miracoli",
+    "Botanischer Garten Pisa",
+    "Arno Promenade",
+    "Studentenviertel San Martino"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "teilweise"
+  },
+
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Rome",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 5,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Städtereise", "Budget", "Kultur", "Studentenleben"]
+},
+
+
+
+
+{
+  "name": "Bangkok",
+  "image": "images/bangkok.webp",
+  "beschreibung_kurz": "Authentisches Bangkok mit lokalen Märkten und Tempeln.",
+  "beschreibung_lang": "Diese Reise zeigt dir das ursprüngliche Bangkok mit traditionellen Märkten, ruhigen Tempelanlagen und echtem thailändischem Alltag abseits der Touristenpfade.",
+  "preis": "980 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Thailand",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "10-11h",
+    "barrierefreundlich": false,
+    "rollstuhl_möglich": false
+  },
+  "zeitraum": {
+    "von": "2026-05-15",
+    "bis": "2026-05-20"
+  },
+  "hotel": {
+    "hotel_name": "Thai Heritage Boutique Hotel",
+    "sterne": 3,
+    "verpflegung": "Frühstück",
+    "lage": "Altstadt",
+    "barrierefreundlich": false
+  },
+  "klima": "tropisch",
+  "beste_reisezeit": "November – Februar",
+  "highlights": ["Local Markets", "Wat Saket", "Chinatown", "Streetfood Tour"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": false
+  },
+ 
+  "kontinent": "Asien",
+  "zeitzone": "Asia/Bangkok",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 5,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Kultur", "Authentisch", "Budget"]
+},
+{
+  "name": "Barcelona",
+  "image": "images/barcelona.webp",
+  "beschreibung_kurz": "Günstige Reise mit viel Kultur, Strand und Tapas.",
+  "beschreibung_lang": "Diese Version von Barcelona richtet sich an preisbewusste Reisende, die trotzdem die Highlights wie Gaudís Bauwerke, lebendige Märkte und den Strand genießen möchten.",
+  "preis": "950 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Spanien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2.5h",
+    "barrierefreundlich": false,
+    "rollstuhl_möglich": false
+  },
+  "zeitraum": {
+    "von": "2026-05-10",
+    "bis": "2026-05-14"
+  },
+  "hotel": {
+    "hotel_name": "Barcelona Budget Inn",
+    "sterne": 3,
+    "verpflegung": "Ohne Verpflegung",
+    "lage": "Stadtrand",
+    "barrierefreundlich": false
+  },
+  "klima": "warm",
+  "beste_reisezeit": "Mai – September",
+  "highlights": ["La Boqueria", "El Born", "Strand Barceloneta", "Gotisches Viertel"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": false
+  },
+
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Madrid",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 6,
+  "nachtleben_level": 9,
+  "geeignet_fuer": ["Budget", "Kultur", "Food"]
+},{
+  "name": "Athen",
+  "image": "images/athen.webp",
+  "beschreibung_kurz": "Wiege der Demokratie mit antiken Tempeln.",
+  "beschreibung_lang": "Athen verbindet moderne Stadt mit antiker Geschichte. Die Akropolis und zahlreiche Ruinen machen die Stadt zu einem kulturellen Highlight.",
+  "preis": "1250 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "Griechenland",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2.5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-01",
+    "bis": "2026-05-06"
+  },
+  "hotel": {
+    "hotel_name": "Acropolis View Suites",
+    "sterne": 5,
+    "verpflegung": "Halbpension",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "März – Juni, September – Oktober",
+  "highlights": ["Akropolis", "Parthenon", "Plaka", "Antikes Agora"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Athens",
+  "pool": false,
+  "wifi": false,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 8,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Kultur", "Geschichte", "Städtereise"]
+},
+{
+  "name": "Kapstadt",
+  "image": "images/kapstadt.webp",
+  "beschreibung_kurz": "Stadt zwischen Bergen, Ozean und Natur.",
+  "beschreibung_lang": "Kapstadt liegt am Tafelberg und bietet eine Mischung aus Natur, Stränden und urbanem Leben.",
+  "preis": "1950 Euro pro Person",
+  "dauer_tage": 8,
+  "land": "Südafrika",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "11-12h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-09-10",
+    "bis": "2026-09-18"
+  },
+  "hotel": {
+    "hotel_name": "Table Bay Horizon Resort",
+    "sterne": 5,
+    "verpflegung": "Halbpension",
+    "lage": "Küste",
+    "barrierefreundlich": true
+  },
+  "klima": "mild",
+  "beste_reisezeit": "November – März",
+  "highlights": ["Tafelberg", "Kap der Guten Hoffnung", "Boulders Beach", "V&A Waterfront"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+  "kontinent": "Afrika",
+  "zeitzone": "Africa/Johannesburg",
+  "pool": false,
+  "wifi": false,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 9,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Natur", "Strand", "Abenteuer"]
+},
+{
+  "name": "Genua",
+  "image": "images/genua.webp",
+  "beschreibung_kurz": "Historischer Hafen Italiens mit verwinkelter Altstadt und Meerblick.",
+  "beschreibung_lang": "Genua ist eine traditionsreiche Hafenstadt mit einer der größten Altstädte Europas. Enge Gassen, prächtige Paläste und der alte Hafen prägen das Stadtbild. Die Stadt verbindet maritimes Flair mit italienischer Geschichte.",
+  "preis": "1120 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Italien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "ca. 1.5h (ab DE)",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": "eingeschränkt"
+  },
+  "zeitraum": {
+    "von": "2026-06-09",
+    "bis": "2026-06-13"
+  },
+  "hotel": {
+    "hotel_name": "Porto Antico Boutique Hotel",
+    "sterne": 5,
+    "verpflegung": "Halbpension",
+    "lage": "Altstadt",
+    "barrierefreundlich": "teilweise"
+  },
+  "klima": "mediterran",
+  "beste_reisezeit": "April – Oktober",
+  "highlights": [
+    "Alter Hafen",
+    "Aquarium Genua",
+    "Via Garibaldi",
+    "Altstadt Genua",
+    "Lanterna Leuchtturm"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "teilweise"
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Rome",
+  "pool": false,
+  "wifi": false,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 7,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Kultur", "Meer", "Städtereise"]
+},{
+  "name": "Lissabon",
+  "image": "images/lissabon.webp",
+  "beschreibung_kurz": "Sonnenreiche Küstenstadt mit Geschichte, Musik und Atlantikblick.",
+  "beschreibung_lang": "Lissabon verbindet nostalgischen Charme mit moderner Lebendigkeit. Die Stadt liegt auf sieben Hügeln und bietet beeindruckende Aussichtspunkte, historische Viertel wie Alfama und eine einzigartige Mischung aus Kultur, Fado-Musik und Atlantikküste.",
+  "preis": "2050 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "Portugal",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "3h 10min",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-08-05",
+    "bis": "2026-08-11"
+  },
+  "hotel": {
+    "hotel_name": "Atlantic View Palace Lisboa",
+    "sterne": 5,
+    "verpflegung": "Halbpension",
+    "lage": "Baixa / Innenstadt",
+    "barrierefreundlich": true
+  },
+  "klima": "mild",
+  "beste_reisezeit": "März – Oktober",
+  "highlights": ["Straßenbahnen", "Torre de Belém", "Alfama", "Aussichtspunkte"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Lisbon",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 9,
+  "nachtleben_level": 8,
+  "geeignet_fuer": ["Paare", "Städtereise", "Kultur"]
+},
+{
+  "name": "Évora",
+  "image": "images/evora.webp",
+  "beschreibung_kurz": "Historische Stadt im Alentejo mit römischem Erbe und ruhigem Charme.",
+  "beschreibung_lang": "Évora ist eine von Mauern umgebene Stadt voller Geschichte und gehört zum UNESCO-Weltkulturerbe. Antike Tempel, enge Gassen und weiß getünchte Häuser verleihen der Stadt eine authentische und entspannte Atmosphäre im Herzen Portugals.",
+  "preis": "890 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Portugal",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "3h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": "teilweise"
+  },
+  "zeitraum": {
+    "von": "2026-05-10",
+    "bis": "2026-05-14"
+  },
+  "hotel": {
+    "hotel_name": "Alentejo Heritage Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Altstadt",
+    "barrierefreundlich": "teilweise"
+  },
+  "klima": "warm",
+  "beste_reisezeit": "April – Juni, September – Oktober",
+  "highlights": [
+    "Römischer Tempel",
+    "Kathedrale von Évora",
+    "Knochenkapelle",
+    "Altstadt Évora",
+    "Praça do Giraldo"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "teilweise"
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Lisbon",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": false,
+  "romantik_score": 8,
+  "nachtleben_level": 5,
+  "geeignet_fuer": ["Kultur", "Ruhe", "Geschichte"]
+},
+{
+  "name": "Coimbra",
+  "image": "images/coimbra.webp",
+  "beschreibung_kurz": "Traditionsreiche Universitätsstadt mit historischer Kulisse und lebendiger Kultur.",
+  "beschreibung_lang": "Coimbra zählt zu den ältesten Universitätsstädten Europas und begeistert mit einer einzigartigen Mischung aus Geschichte und studentischem Leben. Die Altstadt, die berühmte Universität und der Blick über den Mondego-Fluss machen die Stadt besonders reizvoll.",
+  "preis": "950 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Portugal",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "3h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": "eingeschränkt"
+  },
+  "zeitraum": {
+    "von": "2026-05-15",
+    "bis": "2026-05-19"
+  },
+  "hotel": {
+    "hotel_name": "Coimbra Riverside Hotel",
+    "sterne": 4,
+    "verpflegung": "Halbpension",
+    "lage": "Flussnähe",
+    "barrierefreundlich": true
+  },
+  "klima": "mild",
+  "beste_reisezeit": "April – Juni, September – Oktober",
+  "highlights": [
+    "Universität Coimbra",
+    "Biblioteca Joanina",
+    "Altstadt Coimbra",
+    "Mondego Fluss",
+    "Kloster Santa Clara"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "teilweise"
+  },
+
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Lisbon",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 7,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Kultur", "Städtereise", "Geschichte"]
+},
+{
+  "name": "Marbella",
+  "image": "images/marbella.webp",
+  "beschreibung_kurz": "Luxuriöser Badeort an der Costa del Sol mit Stränden und mediterranem Flair.",
+  "beschreibung_lang": "Marbella steht für Sonne, Strand und gehobenen Lifestyle. Neben exklusiven Yachthäfen und schicken Promenaden bietet die Stadt auch eine charmante Altstadt mit engen Gassen und andalusischem Flair.",
+  "preis": "1400 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "Spanien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "3h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-20",
+    "bis": "2026-06-26"
+  },
+  "hotel": {
+    "hotel_name": "Costa del Sol Luxury Resort",
+    "sterne": 5,
+    "verpflegung": "All Inclusive",
+    "lage": "Strandlage",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "Mai – Oktober",
+  "highlights": [
+    "Altstadt Marbella",
+    "Puerto Banús",
+    "Strände Marbella",
+    "Promenade",
+    "Yachthafen"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Madrid",
+  "pool": true,
+  "wifi": false,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 9,
+  "nachtleben_level": 9,
+  "geeignet_fuer": ["Strand", "Luxus", "Entspannung"]
+},{
+  "name": "Oxford",
+  "image": "images/oxford.webp",
+  "beschreibung_kurz": "Traditionsreiche Universitätsstadt mit historischer Architektur und akademischem Flair.",
+  "beschreibung_lang": "Oxford ist weltweit bekannt für seine renommierte Universität und beeindruckende Colleges. Die Stadt bietet eine Mischung aus Geschichte, Kultur und grünen Parks, die zu entspannten Spaziergängen einladen.",
+  "preis": "1100 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Großbritannien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": "teilweise"
+  },
+  "zeitraum": {
+    "von": "2026-07-10",
+    "bis": "2026-07-14"
+  },
+  "hotel": {
+    "hotel_name": "Oxford Heritage Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "Mai – September",
+  "highlights": [
+    "University of Oxford",
+    "Bodleian Library",
+    "Radcliffe Camera",
+    "Christ Church College",
+    "Themse Spaziergänge"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "teilweise"
+  },
+ 
+  "kontinent": "Europa",
+  "zeitzone": "Europe/London",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 7,
+  "nachtleben_level": 6,
+  "geeignet_fuer": ["Kultur", "Geschichte", "Städtereise"]
+},{
+  "name": "San Francisco",
+  "image": "images/san_francisco.webp",
+  "beschreibung_kurz": "Ikonische Küstenstadt mit Hügeln, Brücken und einzigartigem Charme.",
+  "beschreibung_lang": "San Francisco begeistert mit seiner markanten Landschaft, berühmten Sehenswürdigkeiten und kulturellen Vielfalt. Die Mischung aus viktorianischer Architektur, moderner Tech-Szene und spektakulären Ausblicken macht die Stadt besonders.",
+  "preis": "2200 Euro pro Person",
+  "dauer_tage": 7,
+  "land": "USA",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "11-12h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-08-01",
+    "bis": "2026-08-08"
+  },
+  "hotel": {
+    "hotel_name": "Golden Gate View Hotel",
+    "sterne": 4,
+    "verpflegung": "Halbpension",
+    "lage": "Zentrum / Fisherman’s Wharf",
+    "barrierefreundlich": true
+  },
+  "klima": "mild",
+  "beste_reisezeit": "Mai – Oktober",
+  "highlights": [
+    "Golden Gate Bridge",
+    "Alcatraz",
+    "Fisherman’s Wharf",
+    "Cable Cars",
+    "Lombard Street"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+  "kontinent": "Nordamerika",
+  "zeitzone": "America/Los_Angeles",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 8,
+  "nachtleben_level": 8,
+  "geeignet_fuer": ["City", "Kultur", "Natur"]
+},{
+  "name": "Rom",
+  "image": "images/rom.webp",
+  "beschreibung_kurz": "Zeitlose Metropole voller Kunst, Ruinen und italienischer Küche.",
+  "beschreibung_lang": "Rom fasziniert mit einer einzigartigen Mischung aus antiker Geschichte und lebendiger Großstadt. Zwischen Kolosseum, Vatikan und kleinen Gassen entfaltet sich ein besonderes Lebensgefühl, das Kultur, Kulinarik und Geschichte vereint.",
+  "preis": "2150 Euro pro Person",
+  "dauer_tage": 7,
+  "land": "Italien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-09-05",
+    "bis": "2026-09-12"
+  },
+  "hotel": {
+    "hotel_name": "Imperial Roma Luxury Suites",
+    "sterne": 5,
+    "verpflegung": "Halbpension",
+    "lage": "Zentrum nahe Vatikan",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "April – Oktober",
+  "highlights": ["Kolosseum", "Vatikan", "Trevi-Brunnen", "Pantheon"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Rome",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 9,
+  "nachtleben_level": 8,
+  "geeignet_fuer": ["Kultur", "Städtereise", "Paare"]
+},
+{
+  "name": "Málaga",
+  "image": "images/malaga.webp",
+  "beschreibung_kurz": "Sonnige Küstenstadt mit Stränden, Kultur und andalusischem Lebensgefühl.",
+  "beschreibung_lang": "Málaga verbindet mediterrane Leichtigkeit mit kultureller Vielfalt. Historische Sehenswürdigkeiten, eine lebendige Altstadt und lange Sandstrände machen die Stadt zu einem vielseitigen Reiseziel an der Costa del Sol.",
+  "preis": "1200 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Spanien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "3h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-10",
+    "bis": "2026-06-15"
+  },
+  "hotel": {
+    "hotel_name": "Malaga Beachside Hotel",
+    "sterne": 4,
+    "verpflegung": "Halbpension",
+    "lage": "Strandnähe",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "April – Oktober",
+  "highlights": [
+    "Alcazaba",
+    "Kathedrale von Málaga",
+    "Strand La Malagueta",
+    "Altstadt Málaga",
+    "Hafenpromenade"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Madrid",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 8,
+  "nachtleben_level": 8,
+  "geeignet_fuer": ["Strand", "Kultur", "Städtereise"]
+},
+{
+  "name": "Philadelphia",
+  "image": "images/philadelphia.webp",
+  "beschreibung_kurz": "Historische US-Stadt mit bedeutender Vergangenheit und moderner Kulturszene.",
+  "beschreibung_lang": "Philadelphia spielt eine zentrale Rolle in der amerikanischen Geschichte. Neben berühmten Sehenswürdigkeiten bietet die Stadt eine lebendige Kunst- und Food-Szene sowie vielseitige Viertel.",
+  "preis": "1650 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "USA",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "9-10h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-09-05",
+    "bis": "2026-09-11"
+  },
+  "hotel": {
+    "hotel_name": "Liberty City Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "April – Juni, September – Oktober",
+  "highlights": [
+    "Independence Hall",
+    "Liberty Bell",
+    "Philadelphia Museum of Art",
+    "Reading Terminal Market",
+    "Historic District"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+  
+  "kontinent": "Nordamerika",
+  "zeitzone": "America/New_York",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 7,
+  "nachtleben_level": 8,
+  "geeignet_fuer": ["Geschichte", "Kultur", "Städtereise"]
+},
+  {
+    "name": "Matera",
+    "image": "images/matera.webp",
+    "beschreibung_kurz": "Höhlenstadt in Süditalien mit einzigartiger Felsenarchitektur.",
+    "beschreibung_lang": "Matera gehört zu den ältesten durchgehend bewohnten Städten der Welt. Die berühmten Sassi-Höhlenhäuser und in Stein gehauenen Kirchen machen die Stadt zu einem außergewöhnlichen kulturellen Erlebnis abseits der typischen Italien-Routen.",
+    "preis": "980 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Italien",
+    "transport": {
+      "typ": "Flug + Auto",
+      "flugzeit": "2h (ab DE)",
+      "barrierefreundlich": false,
+      "rollstuhl_möglich": "eingeschränkt"
+    },
+    "zeitraum": {
+      "von": "2026-05-10",
+      "bis": "2026-05-14"
+    },
+    "hotel": {
+      "hotel_name": "Sassi Cave Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Altstadt",
+      "barrierefreundlich": "teilweise"
+    },
+    "klima": "warm",
+    "beste_reisezeit": "April – Juni, September – Oktober",
+    "highlights": ["Sassi di Matera", "Casa Grotta", "Dom von Matera", "Belvedere", "Felsenkirchen"],
+    "barrierefreiheit": { "rollstuhlzugang": "eingeschränkt" },
+   
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Rome",
+    "pool": false,
+    "wifi": false,
+    "empfohlen_fuer_erstbesucher": false,
+    "romantik_score": 9,
+    "nachtleben_level": 4,
+    "geeignet_fuer": ["Geschichte", "Kultur", "Fotografie"]
+  },
+  {
+  "name": "Malta",
+  "image": "images/malta.webp",
+  "beschreibung_kurz": "Sonnige Mittelmeerinsel mit Geschichte, Buchten und kristallklarem Wasser.",
+  "beschreibung_lang": "Malta kombiniert jahrtausendealte Geschichte mit mediterranem Lebensgefühl. Die Insel bietet beeindruckende Festungsstädte, türkisfarbene Buchten und eine lebendige Mischung aus Kultur, Stränden und entspanntem Inselleben.",
+  "preis": "1350 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "Malta",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "3h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-05-10",
+    "bis": "2026-05-16"
+  },
+  "hotel": {
+    "hotel_name": "Malta Bay Resort",
+    "sterne": 5,
+    "verpflegung": "Halbpension",
+    "lage": "Küste",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "März – Juni, September – November",
+  "highlights": [
+    "Valletta Altstadt",
+    "Blue Lagoon",
+    "Mdina",
+    "Gozo Insel",
+    "St. John's Co-Cathedral"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Malta",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 9,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Strand", "Kultur", "Städtereise"]
+},{
+  "name": "Verona",
+  "image": "images/verona.webp",
+  "beschreibung_kurz": "Historische Stadt mit römischer Arena, romantischer Altstadt und italienischem Lebensgefühl.",
+  "beschreibung_lang": "Verona zählt zu den schönsten Städten Norditaliens und begeistert mit ihrer Mischung aus antiker Geschichte und lebendiger Kultur. Die berühmte Arena di Verona, verwinkelte Gassen und elegante Plätze machen die Stadt zu einem besonderen Reiseziel. Entlang der Etsch lässt sich das italienische Lebensgefühl besonders intensiv erleben.",
+  "preis": "1120 Euro pro Person",
+  "dauer_tage": 5,
+  "land": "Italien",
+  "transport": {
+    "typ": "Flug + Bahn",
+    "flugzeit": "ca. 1.5h (ab DE)",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": "eingeschränkt"
+  },
+  "zeitraum": {
+    "von": "2026-09-10",
+    "bis": "2026-09-14"
+  },
+  "hotel": {
+    "hotel_name": "Palazzo Verona Suites",
+    "sterne": 5,
+    "verpflegung": "Halbpension",
+    "lage": "Zentrum",
+    "barrierefreundlich": "teilweise"
+  },
+  "klima": "mediterran",
+  "beste_reisezeit": "April – Oktober",
+  "highlights": [
+    "Arena di Verona",
+    "Casa di Giulietta",
+    "Piazza delle Erbe",
+    "Castelvecchio",
+    "Etsch-Ufer"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "teilweise"
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Rome",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 10,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Romantik", "Kultur", "Städtereise"]
+},
+  {
+    "name": "Ghent",
+    "image": "images/ghent.webp",
+    "beschreibung_kurz": "Belgische Kanalstadt mit mittelalterlicher Architektur und Szeneleben.",
+    "beschreibung_lang": "Gent ist oft weniger touristisch als Brügge, bietet aber ähnlich schöne Kanäle, historische Gebäude und eine lebendige Studenten- und Kulturszene.",
+    "preis": "900 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Belgien",
+    "transport": {
+      "typ": "Bahn",
+      "flugzeit": "3h",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": true
+    },
+    "zeitraum": {
+      "von": "2026-04-20",
+      "bis": "2026-04-24"
+    },
+    "hotel": {
+      "hotel_name": "Canal City Hotel Ghent",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Zentrum",
+      "barrierefreundlich": true
+    },
+    "klima": "gemäßigt",
+    "beste_reisezeit": "April – Oktober",
+    "highlights": ["Graslei", "Burg Gravensteen", "St. Bavo Kathedrale", "Kanäle Gent", "Patershol"],
+    "barrierefreiheit": { "rollstuhlzugang": true },
+   
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Brussels",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 8,
+    "geeignet_fuer": ["Kultur", "Städtereise", "Food"]
+  },
+  {
+    "name": "Valletta",
+    "image": "images/valletta.webp",
+    "beschreibung_kurz": "Barocke Hauptstadt Maltas mit Meerblick und Festungscharakter.",
+    "beschreibung_lang": "Valletta ist eine kompakte UNESCO-Stadt voller Geschichte, Paläste und Hafenblicke. Die Mischung aus Festungsstadt und mediterranem Klima macht sie besonders charmant.",
+    "preis": "1150 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Malta",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "3h",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": true
+    },
+    "zeitraum": {
+      "von": "2026-05-05",
+      "bis": "2026-05-09"
+    },
+    "hotel": {
+      "hotel_name": "Grand Harbour Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Altstadt",
+      "barrierefreundlich": true
+    },
+    "klima": "warm",
+    "beste_reisezeit": "März – Juni, September – November",
+    "highlights": ["St. John's Co-Cathedral", "Upper Barrakka Gardens", "Grand Harbour", "Republic Street", "Fort St. Elmo"],
+    "barrierefreiheit": { "rollstuhlzugang": true },
+    
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Malta",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": true,
+    "romantik_score": 8,
+    "nachtleben_level": 6,
+    "geeignet_fuer": ["Kultur", "Meer", "Städtereise"]
+  },
+  {
+    "name": "Luang Prabang",
+    "image": "images/luang_prabang.webp",
+    "beschreibung_kurz": "Ruhige Tempelstadt in Laos mit Wasserfällen und buddhistischer Kultur.",
+    "beschreibung_lang": "Luang Prabang ist UNESCO-Weltkulturerbe und bekannt für seine Tempel, morgendlichen Mönchsprozessionen und tropische Natur rundherum.",
+    "preis": "2200 Euro pro Person",
+    "dauer_tage": 8,
+    "land": "Laos",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "12-13h",
+      "barrierefreundlich": false,
+      "rollstuhl_möglich": "eingeschränkt"
+    },
+    "zeitraum": {
+      "von": "2026-11-10",
+      "bis": "2026-11-18"
+    },
+    "hotel": {
+      "hotel_name": "Mekong Riverside Lodge",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Flussufer",
+      "barrierefreundlich": "teilweise"
+    },
+    "klima": "heiß",
+    "beste_reisezeit": "November – Februar",
+    "highlights": ["Kuang Si Wasserfälle", "Wat Xieng Thong", "Mekong River", "Mount Phousi", "Night Market"],
+    "barrierefreiheit": { "rollstuhlzugang": "eingeschränkt" },
+    
+    "kontinent": "Asien",
+    "zeitzone": "Asia/Vientiane",
+    "pool": false,
+    "wifi": false,
+    "empfohlen_fuer_erstbesucher": false,
+    "romantik_score": 10,
+    "nachtleben_level": 3,
+    "geeignet_fuer": ["Natur", "Kultur", "Ruhe"]
+  },
+  {
+    "name": "Ohrid",
+    "image": "images/ohrid.webp",
+    "beschreibung_kurz": "Geheimtipp am Ohridsee mit Kirchen, Bergen und klarem Wasser.",
+    "beschreibung_lang": "Ohrid in Nordmazedonien ist eine der ältesten Siedlungen Europas und bietet einen traumhaften See, historische Kirchen und entspannte Atmosphäre.",
+    "preis": "850 Euro pro Person",
+    "dauer_tage": 4,
+    "land": "Nordmazedonien",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "2h",
+      "barrierefreundlich": true,
+      "rollstuhl_möglich": "eingeschränkt"
+    },
+    "zeitraum": {
+      "von": "2026-06-15",
+      "bis": "2026-06-19"
+    },
+    "hotel": {
+      "hotel_name": "Lake Ohrid Boutique Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Seelage",
+      "barrierefreundlich": "teilweise"
+    },
+    "klima": "mild",
+    "beste_reisezeit": "Mai – September",
+    "highlights": ["Ohridsee", "Altstadt Ohrid", "Samuel Festung", "Kloster Sveti Naum", "Antikes Theater"],
+    "barrierefreiheit": { "rollstuhlzugang": "teilweise" },
+   
+    "kontinent": "Europa",
+    "zeitzone": "Europe/Skopje",
+    "pool": true,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": false,
+    "romantik_score": 9,
+    "nachtleben_level": 4,
+    "geeignet_fuer": ["Natur", "Baden", "Ruhe"]
+  },{
+  "name": "Löwen",
+  "image": "images/loewen.webp",
+  "beschreibung_kurz": "Lebendige Universitätsstadt mit gotischer Architektur und jungem Flair.",
+  "beschreibung_lang": "Löwen ist geprägt von seiner traditionsreichen Universität und einer lebhaften Atmosphäre. Historische Gebäude wie das prächtige Rathaus treffen auf eine dynamische Studentenszene mit vielen Cafés, Bars und kulturellen Angeboten.",
+  "preis": "980 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Belgien",
+  "transport": {
+    "typ": "Bahn",
+    "flugzeit": "ca. 4h (ab DE)",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-06-05",
+    "bis": "2026-06-09"
+  },
+  "hotel": {
+    "hotel_name": "Grand Plaza Leuven Stay",
+    "sterne": 4,
+    "verpflegung": "Frühstück + Brunch",
+    "lage": "Altstadt",
+    "barrierefreundlich": true
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "April – Oktober",
+  "highlights": [
+    "Rathaus Löwen",
+    "Alte Markt",
+    "Universität Löwen",
+    "Botanischer Garten",
+    "St. Peter Kirche"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+ 
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Brussels",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 6,
+  "nachtleben_level": 8,
+  "geeignet_fuer": ["Städtereise", "Kultur", "Nachtleben"]
+},
+  {
+    "name": "Salta",
+    "image": "images/salta.webp",
+    "beschreibung_kurz": "Farbenfrohe Andenstadt im Norden Argentiniens mit kolonialem Charme.",
+    "beschreibung_lang": "Salta liegt am Rand der Anden und ist bekannt für seine koloniale Architektur, Weingebiete und spektakuläre Berglandschaften rundherum.",
+    "preis": "2600 Euro pro Person",
+    "dauer_tage": 9,
+    "land": "Argentinien",
+    "transport": {
+      "typ": "Flug",
+      "flugzeit": "16-17h",
+      "barrierefreundlich": false,
+      "rollstuhl_möglich": "eingeschränkt"
+    },
+    "zeitraum": {
+      "von": "2026-10-01",
+      "bis": "2026-10-10"
+    },
+    "hotel": {
+      "hotel_name": "Andes Colonial Hotel",
+      "sterne": 4,
+      "verpflegung": "Frühstück",
+      "lage": "Zentrum",
+      "barrierefreundlich": "teilweise"
+    },
+    "klima": "mild",
+    "beste_reisezeit": "April – November",
+    "highlights": ["Plaza 9 de Julio", "Quebrada de Humahuaca", "Cerro San Bernardo", "Weinstraße Cafayate", "Teleférico Salta"],
+    "barrierefreiheit": { "rollstuhlzugang": "eingeschränkt" },
+   
+    "kontinent": "Südamerika",
+    "zeitzone": "America/Argentina/Salta",
+    "pool": false,
+    "wifi": true,
+    "empfohlen_fuer_erstbesucher": false,
+    "romantik_score": 8,
+    "nachtleben_level": 5,
+    "geeignet_fuer": ["Natur", "Berge", "Kultur"]
+  },
+  {
+  "name": "Mestia",
+  "image": "images/mestia.webp",
+  "beschreibung_kurz": "Abgelegene Bergregion im Kaukasus mit Türmen, Gletschern und ursprünglicher Natur.",
+  "beschreibung_lang": "Mestia liegt im Hochland von Swanetien in Georgien und ist bekannt für seine mittelalterlichen Wehrtürme und spektakulären Berglandschaften. Die Region bietet unberührte Natur, Wanderwege und eine einzigartige, traditionelle Kultur fernab klassischer Touristenrouten.",
+  "preis": "1350 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "Georgien",
+  "transport": {
+    "typ": "Flug + Auto",
+    "flugzeit": "5-6h",
+    "barrierefreundlich": false,
+    "rollstuhl_möglich": "eingeschränkt"
+  },
+  "zeitraum": {
+    "von": "2026-07-15",
+    "bis": "2026-07-21"
+  },
+  "hotel": {
+    "hotel_name": "Svaneti Mountain Lodge",
+    "sterne": 3,
+    "verpflegung": "Halbpension",
+    "lage": "Bergdorf",
+    "barrierefreundlich": "nein"
+  },
+  "klima": "mild",
+  "beste_reisezeit": "Juni – September",
+  "highlights": [
+    "Svanetische Wehrtürme",
+    "Ushguli Dorf",
+    "Chalaadi Gletscher",
+    "Kaukasus Berge",
+    "Enguri Tal"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "nein"
+  },
+
+  "kontinent": "Asien",
+  "zeitzone": "Asia/Tbilisi",
+  "pool": false,
+  "wifi": false,
+  "empfohlen_fuer_erstbesucher": false,
+  "romantik_score": 9,
+  "nachtleben_level": 2,
+  "geeignet_fuer": ["Natur", "Abenteuer", "Berge"]
+},{
+  "name": "Madrid",
+  "image": "images/madrid.webp",
+  "beschreibung_kurz": "Kunstvolle Hauptstadt mit pulsierendem Leben und mediterraner Energie.",
+  "beschreibung_lang": "Madrid verbindet royale Geschichte mit moderner Urbanität. Große Boulevards, weltbekannte Museen und ein intensives Nachtleben machen die Stadt zu einem der lebendigsten Ziele Europas.",
+  "preis": "1480 Euro pro Person",
+  "dauer_tage": 6,
+  "land": "Spanien",
+  "transport": {
+    "typ": "Flug",
+    "flugzeit": "2.5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": true
+  },
+  "zeitraum": {
+    "von": "2026-10-01",
+    "bis": "2026-10-06"
+  },
+  "hotel": {
+    "hotel_name": "Gran Madrid Royal Suites",
+    "sterne": 5,
+    "verpflegung": "Frühstück + Abendessen",
+    "lage": "Gran Vía",
+    "barrierefreundlich": true
+  },
+  "klima": "warm",
+  "beste_reisezeit": "April – Juni, September – Oktober",
+  "highlights": ["Prado Museum", "Königspalast", "Retiro Park", "Plaza Mayor"],
+  "barrierefreiheit": {
+    "rollstuhlzugang": true
+  },
+
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Madrid",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 7,
+  "nachtleben_level": 10,
+  "geeignet_fuer": ["Kultur", "Party", "Städtereise"]
+},
+{
+  "name": "Manchester",
+  "image": "images/manchester.webp",
+  "beschreibung_kurz": "Lebendige Industriestadt mit Musikszene, Fußball und moderner Kultur.",
+  "beschreibung_lang": "Manchester ist eine pulsierende Stadt im Nordwesten Englands, bekannt für ihre reiche Industriegeschichte, legendäre Musikszene und weltberühmten Fußballvereine. Neben historischen Gebäuden bietet die Stadt moderne Architektur, Shopping und ein lebendiges Nachtleben.",
+  "preis": "920 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "England (UK)",
+  "transport": {
+    "typ": "Flug + Transfer",
+    "flugzeit": "ca. 2h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": "gut"
+  },
+  "zeitraum": {
+    "von": "2026-05-10",
+    "bis": "2026-05-13"
+  },
+  "hotel": {
+    "hotel_name": "City Central Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": "ja"
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "Mai – September",
+  "highlights": [
+    "Old Trafford",
+    "Northern Quarter",
+    "Manchester Cathedral",
+    "Science and Industry Museum",
+    "Canal Street"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "gut"
+  },
+ 
+  "kontinent": "Europa",
+  "zeitzone": "Europe/London",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 6,
+  "nachtleben_level": 8,
+  "geeignet_fuer": ["Stadt", "Kultur", "Nachtleben"]
+},
+{
+  "name": "Dublin",
+  "image": "images/dublin.webp",
+  "beschreibung_kurz": "Irische Hauptstadt mit Pubs, Geschichte und lebendiger Atmosphäre.",
+  "beschreibung_lang": "Dublin vereint irische Tradition mit modernem Stadtleben. Die Hauptstadt Irlands ist bekannt für ihre gemütlichen Pubs, Live-Musik und literarische Geschichte. Sehenswürdigkeiten wie das Trinity College und das Guinness Storehouse machen die Stadt besonders attraktiv.",
+  "preis": "980 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Irland",
+  "transport": {
+    "typ": "Flug + Transfer",
+    "flugzeit": "ca. 2,5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": "gut"
+  },
+  "zeitraum": {
+    "von": "2026-06-01",
+    "bis": "2026-06-04"
+  },
+  "hotel": {
+    "hotel_name": "Temple Bar Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": "ja"
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "Mai – September",
+  "highlights": [
+    "Trinity College",
+    "Guinness Storehouse",
+    "Temple Bar",
+    "Dublin Castle",
+    "St. Patrick’s Cathedral"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "gut"
+  },
+ 
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Dublin",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 7,
+  "nachtleben_level": 9,
+  "geeignet_fuer": ["Kultur", "Nachtleben", "Stadt"]
+},
+{
+  "name": "Viljandi",
+  "image": "images/viljandi.webp",
+  "beschreibung_kurz": "Charmante estnische Kleinstadt mit See und mittelalterlicher Atmosphäre.",
+  "beschreibung_lang": "Viljandi ist eine ruhige und malerische Stadt in Estland, bekannt für ihre Burgruinen und den idyllischen Viljandi-See. Die Stadt bietet eine entspannte Atmosphäre, kulturelle Festivals und viel Natur – ideal für Erholung und Entschleunigung.",
+  "preis": "870 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Estland",
+  "transport": {
+    "typ": "Flug + Transfer",
+    "flugzeit": "ca. 2h (bis Tallinn) + 2h",
+    "barrierefreundlich": false,
+    "rollstuhl_möglich": "eingeschränkt"
+  },
+  "zeitraum": {
+    "von": "2026-07-05",
+    "bis": "2026-07-08"
+  },
+  "hotel": {
+    "hotel_name": "Lake View Inn",
+    "sterne": 3,
+    "verpflegung": "Frühstück",
+    "lage": "Am See",
+    "barrierefreundlich": "teilweise"
+  },
+  "klima": "kontinental",
+  "beste_reisezeit": "Juni – August",
+  "highlights": [
+    "Viljandi-See",
+    "Burgruinen",
+    "Hängebrücke",
+    "Altstadt",
+    "Folk Music Festival"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "eingeschränkt"
+  },
+ 
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Tallinn",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": false,
+  "romantik_score": 8,
+  "nachtleben_level": 4,
+  "geeignet_fuer": ["Natur", "Erholung", "Kultur"]
+},
+{
+  "name": "Malmö",
+  "image": "images/malmo.webp",
+  "beschreibung_kurz": "Moderne schwedische Stadt mit Strand, Design und Nähe zu Kopenhagen.",
+  "beschreibung_lang": "Malmö ist eine moderne und nachhaltige Stadt im Süden Schwedens. Sie verbindet historische Altstadt mit innovativer Architektur. Durch die Öresundbrücke ist Kopenhagen schnell erreichbar. Strände, Parks und Cafés machen Malmö besonders lebenswert.",
+  "preis": "940 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Schweden",
+  "transport": {
+    "typ": "Flug + Transfer",
+    "flugzeit": "ca. 1,5h (bis Kopenhagen) + 30min",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": "gut"
+  },
+  "zeitraum": {
+    "von": "2026-06-20",
+    "bis": "2026-06-23"
+  },
+  "hotel": {
+    "hotel_name": "Harbour Design Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": "ja"
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "Mai – September",
+  "highlights": [
+    "Turning Torso",
+    "Altstadt (Gamla Staden)",
+    "Ribersborg Strand",
+    "Malmöhus Schloss",
+    "Öresundbrücke"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "gut"
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Stockholm",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 7,
+  "nachtleben_level": 7,
+  "geeignet_fuer": ["Stadt", "Design", "Erholung"]
+},{
+  "name": "Nazaré",
+  "image": "images/nazare.webp",
+  "beschreibung_kurz": "Portugiesischer Küstenort mit gigantischen Wellen und maritimem Flair.",
+  "beschreibung_lang": "Nazaré ist ein berühmter Fischerort an der portugiesischen Atlantikküste, bekannt für einige der größten Wellen der Welt. Neben Surfspots bietet die Stadt eine charmante Altstadt, lange Sandstrände und traditionelle Kultur.",
+  "preis": "950 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Portugal",
+  "transport": {
+    "typ": "Flug + Transfer",
+    "flugzeit": "ca. 3h (bis Lissabon) + 1,5h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": "teilweise"
+  },
+  "zeitraum": {
+    "von": "2026-06-10",
+    "bis": "2026-06-13"
+  },
+  "hotel": {
+    "hotel_name": "Ocean View Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Strandnähe",
+    "barrierefreundlich": "teilweise"
+  },
+  "klima": "mediterran",
+  "beste_reisezeit": "Mai – Oktober",
+  "highlights": [
+    "Praia da Nazaré",
+    "Forte de São Miguel",
+    "Big Wave Spot",
+    "Altstadt",
+    "Seilbahn"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "teilweise"
+  },
+ 
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Lisbon",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 8,
+  "nachtleben_level": 6,
+  "geeignet_fuer": ["Strand", "Natur", "Abenteuer"]
+},
+{
+  "name": "Tomar",
+  "image": "images/tomar.webp",
+  "beschreibung_kurz": "Historische Stadt der Tempelritter mit beeindruckendem Kloster.",
+  "beschreibung_lang": "Tomar ist eine geschichtsträchtige Stadt in Portugal, die eng mit dem Orden der Tempelritter verbunden ist. Das UNESCO-Weltkulturerbe Convento de Cristo ist das Highlight der Stadt. Kleine Gassen und der Fluss Nabão verleihen Tomar eine ruhige Atmosphäre.",
+  "preis": "880 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Portugal",
+  "transport": {
+    "typ": "Flug + Transfer",
+    "flugzeit": "ca. 3h (bis Lissabon) + 1,5h",
+    "barrierefreundlich": false,
+    "rollstuhl_möglich": "eingeschränkt"
+  },
+  "zeitraum": {
+    "von": "2026-05-20",
+    "bis": "2026-05-23"
+  },
+  "hotel": {
+    "hotel_name": "Historic Riverside Hotel",
+    "sterne": 3,
+    "verpflegung": "Frühstück",
+    "lage": "Zentrum",
+    "barrierefreundlich": "teilweise"
+  },
+  "klima": "mediterran",
+  "beste_reisezeit": "April – Oktober",
+  "highlights": [
+    "Convento de Cristo",
+    "Altstadt",
+    "Fluss Nabão",
+    "Templerburg",
+    "Praça da República"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "eingeschränkt"
+  },
+ 
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Lisbon",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": false,
+  "romantik_score": 7,
+  "nachtleben_level": 4,
+  "geeignet_fuer": ["Kultur", "Geschichte", "Erholung"]
+},
+{
+  "name": "Lucca",
+  "image": "images/lucca.webp",
+  "beschreibung_kurz": "Toskanische Stadt mit vollständig erhaltener Stadtmauer und italienischem Charme.",
+  "beschreibung_lang": "Lucca ist eine der schönsten Städte der Toskana. Die vollständig erhaltene Renaissance-Stadtmauer lädt zu Spaziergängen ein. Enge Gassen, historische Plätze und italienische Küche machen Lucca zu einem perfekten Ziel für Kultur- und Genussreisen.",
+  "preis": "1020 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Italien",
+  "transport": {
+    "typ": "Flug + Transfer",
+    "flugzeit": "ca. 1,5h (bis Pisa) + 30min",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": "gut"
+  },
+  "zeitraum": {
+    "von": "2026-06-05",
+    "bis": "2026-06-08"
+  },
+  "hotel": {
+    "hotel_name": "Lucca Boutique Hotel",
+    "sterne": 4,
+    "verpflegung": "Frühstück",
+    "lage": "Altstadt",
+    "barrierefreundlich": "ja"
+  },
+  "klima": "mediterran",
+  "beste_reisezeit": "April – Oktober",
+  "highlights": [
+    "Stadtmauer",
+    "Piazza dell’Anfiteatro",
+    "Dom San Martino",
+    "Guinigi-Turm",
+    "Altstadt"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "gut"
+  },
+  
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Rome",
+  "pool": false,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 9,
+  "nachtleben_level": 5,
+  "geeignet_fuer": ["Kultur", "Romantik", "Genuss"]
+},
+{
+  "name": "Como",
+  "image": "images/como.webp",
+  "beschreibung_kurz": "Elegante Stadt am Comer See mit Alpenblick und italienischem Flair.",
+  "beschreibung_lang": "Como liegt am berühmten Comer See und bietet eine Mischung aus Natur, Luxus und italienischer Lebensart. Die umliegenden Berge und Villen machen die Region zu einem der schönsten Reiseziele Norditaliens.",
+  "preis": "1100 Euro pro Person",
+  "dauer_tage": 4,
+  "land": "Italien",
+  "transport": {
+    "typ": "Flug + Transfer",
+    "flugzeit": "ca. 1h (bis Mailand) + 1h",
+    "barrierefreundlich": true,
+    "rollstuhl_möglich": "gut"
+  },
+  "zeitraum": {
+    "von": "2026-07-01",
+    "bis": "2026-07-04"
+  },
+  "hotel": {
+    "hotel_name": "Lake Como Grand Hotel",
+    "sterne": 5,
+    "verpflegung": "Frühstück",
+    "lage": "Seeblick",
+    "barrierefreundlich": "ja"
+  },
+  "klima": "gemäßigt",
+  "beste_reisezeit": "Mai – September",
+  "highlights": [
+    "Comer See",
+    "Villa Carlotta",
+    "Altstadt Como",
+    "Seilbahn Brunate",
+    "Bootstouren"
+  ],
+  "barrierefreiheit": {
+    "rollstuhlzugang": "gut"
+  },
+ 
+  "kontinent": "Europa",
+  "zeitzone": "Europe/Rome",
+  "pool": true,
+  "wifi": true,
+  "empfohlen_fuer_erstbesucher": true,
+  "romantik_score": 10,
+  "nachtleben_level": 6,
+  "geeignet_fuer": ["Natur", "Luxus", "Romantik"]
+}
+]

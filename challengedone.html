@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aufgabe abgeschlossen</title>
+
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #e8f5e9, #ffffff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+  .card {
+    background: white;
+    padding: 40px;
+    border-radius: 16px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.1);
+    text-align: center;
+    max-width: 420px;
+    width: 100%;
+    animation: fadeIn 0.6s ease;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .icon {
+    font-size: 60px;
+    color: #4CAF50;
+  }
+
+  h1 {
+    margin: 15px 0;
+  }
+
+  .time-box {
+    margin: 25px 0;
+    padding: 20px;
+    background: #f1f8f4;
+    border-radius: 12px;
+    font-size: 18px;
+  }
+
+  .time {
+    font-size: 28px;
+    font-weight: bold;
+    color: #2e7d32;
+  }
+
+  button {
+    margin-top: 20px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px;
+    background: #4CAF50;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+
+  button:hover {
+    background: #388e3c;
+  }
+
+  .sub {
+    color: #666;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+</style>
+</head>
+
+<body>
+
+<div class="card">
+  <div class="icon">✔</div>
+  <h1>Aufgabe abgeschlossen</h1>
+  <p>Du hast die Challenge erfolgreich beendet.</p>
+
+  <div class="time-box">
+    Deine Zeit:
+    <div class="time" id="finalTime">--</div>
+  </div>
+<div class="time-box">
+    Klicks gesamt:
+    <div class="time" id="clicks">--</div>
+  </div>
+  <p>Bitte fahre nun mit dem Fragebogen fort.</p>
+
+  <button onclick="goToSurvey()">Zum Fragebogen</button>
+  
+</div>
+<script>
+  (function () {
+
+    let start = sessionStorage.getItem("startTime");
+    let end = Date.now();
+
+    if (start) {
+      let seconds = Math.floor((end - Number(start)) / 1000);
+
+      document.getElementById("finalTime").textContent = seconds + " Sekunden";
+
+      sessionStorage.setItem("lastDuration", seconds);
+
+      sessionStorage.removeItem("startTime");
+    } else {
+      document.getElementById("finalTime").textContent = "Keine Daten";
+    }
+
+    const clicks = sessionStorage.getItem("clicks") || 0;
+    document.getElementById("clicks").textContent = clicks;
+
+    sessionStorage.removeItem("clicks");
+
+  })();
+
+ function goToSurvey() {
+  window.open("https://docs.google.com/forms/d/e/1FAIpQLSc4ujJEwK3v1CnYBWyRkSVEQRX7MrBjr_quOH227YJG_D8C1g/viewform?usp=dialog", "_blank");
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+let dataGlobal=[];let state={search:"",sort:"name-asc",klima:"",ausstattung:"",geeignet:""};fetch("staedte.json").then(res=>res.json()).then(data=>{dataGlobal=data;setupControls();render()});function setupControls(){document.getElementById("search").addEventListener("input",e=>{state.search=e.target.value.toLowerCase();render()});document.getElementById("sort").addEventListener("change",e=>{state.sort=e.target.value;render()});document.getElementById("klima").addEventListener("change",e=>{state.klima=e.target.value;render()});document.getElementById("ausstattung").addEventListener("change",e=>{state.ausstattung=e.target.value;render()});document.getElementById("geeignet").addEventListener("change",e=>{state.geeignet=e.target.value;render()})}
+function render(){const container=document.querySelector(".content");container.innerHTML="";let data=[...dataGlobal];if(state.search){data=data.filter(stadt=>stadt.name.toLowerCase().includes(state.search))}
+if(state.klima){data=data.filter(stadt=>stadt.klima.toLowerCase()===state.klima.toLowerCase())}
+if(state.ausstattung){data=data.filter(stadt=>{if(state.ausstattung==="pool")return stadt.pool;if(state.ausstattung==="wifi")return stadt.wifi;return!0})}
+if(state.geeignet){data=data.filter(stadt=>stadt.geeignet_fuer.some(e=>e.toLowerCase().includes(state.geeignet.toLowerCase())))}
+if(state.sort==="name-asc"){data.sort((a,b)=>a.name.localeCompare(b.name))}else if(state.sort==="name-desc"){data.sort((a,b)=>b.name.localeCompare(a.name))}else if(state.sort==="preis-asc"){data.sort((a,b)=>parseInt(a.preis)-parseInt(b.preis))}else if(state.sort==="preis-desc"){data.sort((a,b)=>parseInt(b.preis)-parseInt(a.preis))}else if(state.sort==="dauer-asc"){data.sort((a,b)=>a.dauer_tage-b.dauer_tage)}else if(state.sort==="dauer-desc"){data.sort((a,b)=>b.dauer_tage-a.dauer_tage)}else if(state.sort==="romantik-desc"){data.sort((a,b)=>b.romantik_score-a.romantik_score)}else if(state.sort==="nachtleben-desc"){data.sort((a,b)=>b.nachtleben_level-a.nachtleben_level)}
+const frag=document.createDocumentFragment();data.forEach(stadt=>{const card=document.createElement("a");card.className="card";card.href=`details.html?stadt=${encodeURIComponent(stadt.name)}&preis=${encodeURIComponent(stadt.preis.split(" ")[0])}&tage=${encodeURIComponent(stadt.dauer_tage)}`;card.innerHTML=`
+ <h2>${stadt.name}</h2>
+  <img src="${stadt.image}" alt="Stadtansicht von ${stadt.name} mit markanten Gebäuden und Skyline"  loading="lazy"  decoding="async"> 
+  <p>${stadt.beschreibung_kurz}</p>
+  <p><strong>${stadt.preis}</strong></p>
+  <p>${stadt.dauer_tage} Tage</p>
+`;frag.appendChild(card)});container.appendChild(frag)}
